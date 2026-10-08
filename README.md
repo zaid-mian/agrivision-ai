@@ -200,14 +200,19 @@ Access the platform at **[http://localhost:3000](http://localhost:3000)**.
 
 ---
 
-## 🎬 Reproducible Demo Studio
+## 🛠️ Technology Stack
 
-The 2-minute product video was generated through headless browser automation using Playwright CDP screencasting. All scripts and assets are version-controlled in [`demos/product-demo/`](demos/product-demo/):
-
-- **[`demos/product-demo/run.mjs`](demos/product-demo/run.mjs)**: Automated Playwright script that logs in, navigates telemetry, uploads specimens, executes inference, and toggles heatmaps.
-- **[`demos/product-demo/script.md`](demos/product-demo/script.md)**: Full 6-act screenplay and voiceover narration cue sheet.
-- **[`demos/product-demo/narration.mp3`](demos/product-demo/narration.mp3)**: Neural audio voiceover track (`en-US-ChristopherNeural`).
-- **[`demos/product-demo/captions.srt`](demos/product-demo/captions.srt)**: Word-synchronized subtitle timestamps.
+| Layer | Technologies | Purpose & Architecture |
+| :--- | :--- | :--- |
+| **Frontend & UI** | **React 19**, **TypeScript**, **Vite 6**, **Tailwind CSS** | Type-safe reactive UI, sub-second HMR, custom agricultural dark aesthetic |
+| **Data Visualization** | **Recharts**, **HTML5 Canvas** | Interactive 7-day disease progression charts, real-time farm health score gauges |
+| **Edge AI & Machine Learning** | **MobileNetV3-Small**, **ONNX Runtime** | **24–48ms local CPU inference**, top-3 class softmax, honest uncertainty safeguard |
+| **Explainable AI (XAI)** | **Thermal Attention Heatmap Engine** | Spatial activation heatmaps highlighting necrotic lesion boundaries |
+| **Knowledge Retrieval (RAG)** | **BM25 Okapi Algorithm** | **3–5ms offline semantic retrieval** over 50+ official agronomic handbook chapters |
+| **Backend & APIs** | **Node.js 24 LTS**, **Express 4 (REST)** | Modular RESTful API routing, JWT auth, and 1-click model farmer demo session |
+| **Embedded Database** | **SQLite (ACID)** with **WAL Mode** | High-concurrency local persistence with Write-Ahead Logging for zero-lock reads |
+| **Image & Document Engines** | **Sharp**, **PDFKit** | High-speed 224×224 RGB normalization and dynamic vector PDF certification |
+| **Containerization** | **Docker**, **Docker Compose** | Production-ready multi-stage container deployment |
 
 ---
 
