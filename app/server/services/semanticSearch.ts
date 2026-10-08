@@ -1,8 +1,9 @@
 /**
- * Agronomic Semantic Search & Retrieval-Augmented Generation (RAG) Engine.
- * 
- * Implements bilingual (Urdu + English) BM25 Okapi and TF-IDF cosine vector
- * similarity indexing over local verified agricultural knowledge bases.
+ * Agronomic keyword search engine (BM25).
+ *
+ * Implements bilingual (Urdu + English) BM25 Okapi keyword retrieval over a
+ * local 50-entry FAQ. This is lexical matching, not semantic/vector search —
+ * no embeddings are used.
  */
 
 import fs from "fs";

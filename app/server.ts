@@ -7,6 +7,7 @@ import jwt from "jsonwebtoken";
 import PDFDocument from "pdfkit";
 import { createServer as createViteServer } from "vite";
 import dotenv from "dotenv";
+import crypto from "crypto";
 import { predictLocal, ensureLoaded } from "./server/diseaseModel";
 import { dbService } from "./server/db";
 import { semanticRAG } from "./server/services/semanticSearch";
@@ -1579,11 +1580,19 @@ app.get("/api/reports/pdf", authenticateToken, (req, res) => {
   const userScans = db.diseaseResults.filter((r: any) => r.userId === user.id);
   const userRecoms = db.recommendations.filter((r: any) => r.userId === user.id);
 
+  // Integrity hash of the underlying records — printed in the report footer
+  // so the PDF can be checked against the database later.
+  const recordHash = crypto
+    .createHash("sha256")
+    .update(JSON.stringify({ scans: userScans, recommendations: userRecoms }))
+    .digest("hex");
+
   const doc = new PDFDocument({ margin: 50, size: "A4" });
 
   // Stream PDF directly to client
   res.setHeader("Content-Type", "application/pdf");
   res.setHeader("Content-Disposition", `attachment; filename="Farm_Report_${user.name.replace(/\s+/g, "_")}.pdf"`);
+  res.setHeader("X-Report-Integrity-SHA256", recordHash);
   doc.pipe(res);
 
   // Styling - Forest Theme
@@ -1700,7 +1709,8 @@ app.get("/api/reports/pdf", authenticateToken, (req, res) => {
 
   // Footer stamp
   doc.moveTo(50, 750).lineTo(545, 750).strokeColor("#E5E7EB").stroke();
-  doc.fillColor("#9CA3AF").fontSize(8).text("This certificate represents highly optimized estimates based on neural networks and agronomic local models. Please follow certified guidelines in connection with structural testing.", 50, 760, { align: "center", width: 495 });
+  doc.fillColor("#9CA3AF").fontSize(8).text("This report summarizes on-device diagnoses and rule-based agronomic guidance. Always follow certified extension guidelines for treatment decisions.", 50, 758, { align: "center", width: 495 });
+  doc.fillColor("#9CA3AF").fontSize(8).text(`Record integrity SHA-256: ${recordHash}`, 50, 772, { align: "center", width: 495 });
 
   doc.end();
 });

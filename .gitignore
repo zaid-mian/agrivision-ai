@@ -35,3 +35,5 @@ __pycache__/
 
 # SQLite local data if any
 *.sqlite-journal
+app/data/*.db
+*.db

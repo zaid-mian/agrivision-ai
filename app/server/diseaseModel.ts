@@ -103,9 +103,15 @@ export interface LocalPrediction {
 }
 
 /**
- * Generate a visual pathology attention heatmap highlighting leaf necrosis and chlorosis.
+ * Generate a color-based lesion highlight overlay (visual aid only).
+ *
+ * This is a simple pixel heuristic — redness and loss of green vs a
+ * chlorophyll baseline — drawn as a thermal-style overlay to help the eye
+ * spot necrotic/chlorotic regions. It does NOT show where the neural
+ * network looked: no Grad-CAM or activation mapping is performed (the ONNX
+ * session here only returns final class logits).
  */
-async function generateLesionHeatmap(
+async function generateLesionHighlight(
   imagePath: string,
   rawBuffer: Buffer
 ): Promise<string | undefined> {
@@ -212,7 +218,7 @@ export async function predictLocal(imagePath: string): Promise<LocalPrediction |
   });
 
   const inferenceTimeMs = Math.max(1, Date.now() - startTime);
-  const heatmapPath = await generateLesionHeatmap(imagePath, raw);
+  const heatmapPath = await generateLesionHighlight(imagePath, raw);
 
   return {
     classId,

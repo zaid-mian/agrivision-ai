@@ -37,7 +37,7 @@ export default function DiseaseDetection() {
   const videoRef = useRef<HTMLVideoElement | null>(null);
   const streamRef = useRef<MediaStream | null>(null);
 
-  // View toggle: original leaf vs AI attention heatmap
+  // View toggle: original leaf vs lesion highlight (color-based visual aid)
   const [viewMode, setViewMode] = useState<"original" | "heatmap">("original");
 
   const showToast = (msg: string) => {
@@ -342,7 +342,7 @@ export default function DiseaseDetection() {
                       }`}
                     >
                       <Layers size={11} />
-                      🔬 AI Attention Map
+                      🔬 Lesion Highlight
                     </button>
                   </div>
                 )}
