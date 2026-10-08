@@ -136,6 +136,8 @@ flowchart LR
 
 *Detailed per-class confusion matrices and classification reports are available at [`ml/disease_model/eval/metrics.json`](ml/disease_model/eval/metrics.json).*
 
+> ⚠️ **Dataset Caveat:** *Evaluated on the PlantVillage held-out test split (controlled lighting and plain backgrounds). Real-world field accuracy will be lower due to environmental clutter, which is why the 60% uncertainty safeguard is enforced.*
+
 ### 2. Agronomic FAQ Retrieval Benchmark (BM25 Okapi)
 
 Evaluated across **50 realistic farmer queries** mapped to ground-truth answers in [`app/farming_faq.json`](app/farming_faq.json). Results generated via automated test suite [`app/test/faqBenchmark.test.ts`](app/test/faqBenchmark.test.ts):
@@ -148,6 +150,8 @@ Evaluated across **50 realistic farmer queries** mapped to ground-truth answers 
 | **Average Query Latency** | **1.02 ms** | In-memory tokenized BM25 search |
 
 *Full benchmark run artifact saved at [`ml/disease_model/eval/faq_benchmark_results.json`](ml/disease_model/eval/faq_benchmark_results.json).*
+
+> ⚠️ **Evaluation Caveat:** *This benchmark measures in-vocabulary keyword retrieval where queries contain terms present in the target FAQ entry. Real-world farmer queries with colloquial phrasing, misspellings, or dialectal Roman Urdu will experience vocabulary mismatch and lower hit-rates without query expansion or a phonetic transliteration dictionary.*
 
 ---
 
