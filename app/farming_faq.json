@@ -1,0 +1,302 @@
+[
+  {
+    "id": "faq_1",
+    "question": "Why are my tomato leaves turning yellow?",
+    "answer": "Yellowing tomato leaves (chlorosis) usually signal nitrogen deficiency, overwatering, or fungal infections like Early Blight. Check soil moisture: if soggy, reduce watering. Apply balanced nitrogen fertilizer or compost, and prune lower leaves showing spots to prevent spore splash.",
+    "sources": ["Tomato Care Guide", "Nitrogen Deficiency Notes"]
+  },
+  {
+    "id": "faq_2",
+    "question": "How do I control late blight in potatoes?",
+    "answer": "Late Blight is caused by Phytophthora infestans. Control it by using certified disease-free seed tubers, ensuring proper plant spacing for quick canopy drying, and applying copper-based fungicides when weather is cool and damp. Destroy infected vines immediately.",
+    "sources": ["Potato Pathology Manual", "Fungicide Guidelines"]
+  },
+  {
+    "id": "faq_3",
+    "question": "What is the optimal pH level for wheat cultivation?",
+    "answer": "Wheat grows best in well-drained loamy soils with a pH between 6.0 and 7.5. Soil pH below 5.5 can cause aluminum toxicity and restricted root development, while pH above 8.0 can lock phosphorus and trace micro-nutrients.",
+    "sources": ["Cereal Crop Chemistry", "Wheat Soil Manual"]
+  },
+  {
+    "id": "faq_4",
+    "question": "How often should I irrigate cotton during flowering?",
+    "answer": "Cotton demands high moisture during the peak flowering and boll-development stages. Irrigate every 10-14 days depending on soil moisture. Ensure that no waterlogging stays near the roots as it can trigger premature flower/boll shed.",
+    "sources": ["Cotton Irrigation Schedule", "Boll Development Metrics"]
+  },
+  {
+    "id": "faq_5",
+    "question": "What are the core indicators of nitrogen deficiency in rice?",
+    "answer": "Nitrogen-starved rice displays pale-green to yellow overall leaves, starting from oldest blades. Plant stunting with fewer tillers is observed. Apply micro-balanced Urea or organic green manures to recover levels rapidly.",
+    "sources": ["Rice Nutrition Studies", "Urea Application Standards"]
+  },
+  {
+    "id": "faq_6",
+    "question": "Which crops should be rotated with corn to maintain soil health?",
+    "answer": "Rotate corn with nitrogen-fixing cover legumes like soybeans, peas, or clover. Crop rotation breaks corn rootworm pest cycles and replenishes soil micro-nutrients naturally, maintaining high biological activity.",
+    "sources": ["Sustainable Rotation Cycles", "Corn Pest Mitigation"]
+  },
+  {
+    "id": "faq_7",
+    "question": "How can I prevent root rot in bananas?",
+    "answer": "Ensure deep, loose beds with premium drainage properties. Treat roots with Trichoderma bio-fungicides during planting, avoid piling soil directly against pseudostems, and never over-irrigate during flat winters.",
+    "sources": ["Musa Pathology", "Bio-fungicides Handbook"]
+  },
+  {
+    "id": "faq_8",
+    "question": "What fertilizer ratio is recommended for fruit bearing grapes?",
+    "answer": "Grapes require moderate nitrogen, medium phosphorus, and high potassium (NPK ratio such as 10-15-30) during fruit set. Potassium enhances sugar synthesis, increases berry cluster weight, and resists dehydration stresses.",
+    "sources": ["Viticulture Fertilization", "Potassium Optimization"]
+  },
+  {
+    "id": "faq_9",
+    "question": "How do I naturally combat aphids on cabbage?",
+    "answer": "Introduce natural predators like ladybugs, hoverflies, or lacewings. Spray neem oil distillate or organic insecticidal soap on lower leaf regions, and cultivate companion plants like marigolds to deter them.",
+    "sources": ["Cabbage Pest Control", "Companion Planting Guide"]
+  },
+  {
+    "id": "faq_10",
+    "question": "What is the symptom of potassium deficiency in Maize?",
+    "answer": "Maize with potassium deficiency exhibits yellowing and necrosis along the outer margins of the lower leaves. The leaf tips will dry up first (leaf burn), and stalk strength decreases, increasing lodging risk.",
+    "sources": ["Maize Chemistry", "Lodging Avoidance Protocol"]
+  },
+  {
+    "id": "faq_11",
+    "question": "How do I detect and cure powdery mildew on grapes?",
+    "answer": "Powdery mildew appears as white, dusty, flour-like patches on leaves and berries. Protect clusters by pruning leaves to introduce ventilation, spraying sulfur fungicides, and maintaining weed-free rows to lower humidity.",
+    "sources": ["Grapes Mildew Research", "Sulfur Spray Schedules"]
+  },
+  {
+    "id": "faq_12",
+    "question": "What is the standard N-P-K recommendation for dry Rabi crops?",
+    "answer": "Dry Rabi crops (e.g., lentils, chickpeas) typically require lower nitrogen but higher phosphorus, such as a 20-40-20 N-P-K base ratio. Legumes fix their own nitrogen but need phosphorus for nodule development and cell division.",
+    "sources": ["Rabi Nutrients", "Legume Root Nodules"]
+  },
+  {
+    "id": "faq_13",
+    "question": "When should Urea be applied to wheat fields?",
+    "answer": "Apply Urea split into two doses: 50% at the time of first irrigation (tillering stage, about 21-25 days after sowing) and the remaining 50% during the jointing stage (around 45-50 days after sowing). Avoid muddy conditions.",
+    "sources": ["Wheat Nitrogen Management"]
+  },
+  {
+    "id": "faq_14",
+    "question": "How do I control leaf spot disease on chili peppers?",
+    "answer": "Leaf spots are caused by bacteria or fungi. Practice 2-year crop rotation, burn infected debris, treat seeds with warm water or bio-pesticides, and apply copper oxychloride sprays at the first onset of brown spots.",
+    "sources": ["Chili Pathology", "Copper Treatments"]
+  },
+  {
+    "id": "faq_15",
+    "question": "What causes blossom end rot in tomatoes?",
+    "answer": "Blossom end rot is a physiological disorder caused by calcium deficiency in the ripening fruit, often triggered by irregular watering. Keep soil moisture consistently even to ensure stable calcium uptake from soil.",
+    "sources": ["Tomato Blossom Pathology", "Calcium Mobility"]
+  },
+  {
+    "id": "faq_16",
+    "question": "How does rainy weather affect fertilizer application?",
+    "answer": "Heavy rain leads to fertilizer leaching, especially nitrogen. Avoid broadcasting fertilizer right before severe downpours. Prefer slow-release nitrogen forms or foliar weed sprays to maintain maximum nutrient efficacy during monsoon.",
+    "sources": ["Climate Smart Fertilization"]
+  },
+  {
+    "id": "faq_17",
+    "question": "What are organic sources of phosphorus for acidic soils?",
+    "answer": "Bone meal, rock phosphate, and decomposed poultry compost are premium organic phosphorus sources. Rock phosphate works exceptionally well in acidic soils, breaking down slowly over seasons for sustained root access.",
+    "sources": ["Soil Amendments", "Phosphorus Sources"]
+  },
+  {
+    "id": "faq_18",
+    "question": "How do I deal with citrus canker?",
+    "answer": "Citrus canker is highly contagious bacterial disease showing raised crater-like lesions on leaves and fruits. Protect orchards by pruning diseased branches during dry winters, applying copper sprays, and disinfecting tools.",
+    "sources": ["Citrus Orchard Management", "Bacterial disease Controls"]
+  },
+  {
+    "id": "faq_19",
+    "question": "What soil conditions promote healthy potato growth?",
+    "answer": "Potatoes require loose, sandy-loam soils with rich organic matter, good drainage, and a pH of 5.2 to 6.2. High soil compaction restricts tuber expansion, and high pH promotes potato scab disease.",
+    "sources": ["Tuber Development Manual"]
+  },
+  {
+    "id": "faq_20",
+    "question": "How can I increase the organic carbon level in my soil?",
+    "answer": "Integrate green manures (such as dhaincha or guar) into soil, add farmyard manure (FYM), practice zero-tillage to prevent organic matter oxidation, and always cover soil surfaces with straw mulches.",
+    "sources": ["Carbon Sequestration Techniques", "FYM Guidelines"]
+  },
+  {
+    "id": "faq_21",
+    "question": "What is drip irrigation and when is it recommended?",
+    "answer": "Drip irrigation delivers water directly to plant root bands drop by drop. It saves 40-60% water compared to flood irrigation, reduces weed growth, and is highly recommended for high-value orchard fruits, sugarcane, and vegetables.",
+    "sources": ["Water Efficiency Systems"]
+  },
+  {
+    "id": "faq_22",
+    "question": "How do I identify iron deficiency in sugarcane?",
+    "answer": "Sugarcane iron deficiency presents as bright yellow-white stripes along the entire length of the youngest leaves. If severe, leaves turn completely bleached. Apply foliar sprays of ferrous sulfate (1-2% solution) to resolve.",
+    "sources": ["Sugarcane Micronutrients"]
+  },
+  {
+    "id": "faq_23",
+    "question": "What are the benefits of bio-fertilizers?",
+    "answer": "Bio-fertilizers like Rhizobium, Azotobacter, and PSB (Phosphorus Solubilizing Bacteria) contain active microbes that fix atmospheric nitrogen and solubilize insoluble soil phosphorus, reducing chemical costs by 20%.",
+    "sources": ["Bio-fertilizers and Soil Health"]
+  },
+  {
+    "id": "faq_24",
+    "question": "How do I control armyworms in maize crops?",
+    "answer": "Monitor crops for leaf skeletonization. Apply neem-based insect repellents during early infestations, introduce Trichoderma parasites, or spray eco-friendly Bacillus thuringiensis (Bt) or Spinosad during late dusk.",
+    "sources": ["Maize Insect Control"]
+  },
+  {
+    "id": "faq_25",
+    "question": "Can I spray liquid fertilizer in hot desert afternoon?",
+    "answer": "Never spray liquid foliar fertilizers during peak hot afternoon hours. High temperatures cause rapid drying, leading to chemical leaf scorch. Spray either in early morning (dew evaporated) or late evening.",
+    "sources": ["Foliar Application Rules"]
+  },
+  {
+    "id": "faq_26",
+    "question": "What is the symptom of zinc deficiency in wheat?",
+    "answer": "Zinc deficiency shows up as dusty brown spots and yellow-white necrotic bands across middle leaf structures. Stunting with short internodes is common. Apply zinc heptahydrate during soil preparation.",
+    "sources": ["Wheat Micronutrient Study"]
+  },
+  {
+    "id": "faq_27",
+    "question": "How often should I test my soil nutrients?",
+    "answer": "Conduct soil laboratory test once every 2 to 3 years, preferably before sowing major Kharif/Rabi crops. Take composite core samples down to 15-30 cm across diagonal farm intervals for maximum fidelity analysis.",
+    "sources": ["Soil Testing Standards"]
+  },
+  {
+    "id": "faq_28",
+    "question": "What defines the Rabi agriculture season?",
+    "answer": "Rabi is the dry winter agricultural cycle. Fields are sown in mid-October to November and harvested in springtime (April-May). Core crop items include Wheat, Chickpeas, Mustard, Barley, and Linseed.",
+    "sources": ["Seasonal Farming Lifecycles"]
+  },
+  {
+    "id": "faq_29",
+    "question": "What defines the Kharif cropping season?",
+    "answer": "Kharif crops are sown in early summer (May-July) alongside the onset of southwest monsoon rains and harvested in autumn (September-November). Major Kharif. crops include Rice, Cotton, Maize, and Millet.",
+    "sources": ["Monsoon Agriculture"]
+  },
+  {
+    "id": "faq_30",
+    "question": "How do I deal with whitefly in cotton fields?",
+    "answer": "Whiteflies suck plant sap and exude honey-dew, encouraging black sooty mold. Control them by avoiding excessive nitrogen fertilizing, installing yellow sticky traps, and spraying eco-safe insect growth regulators.",
+    "sources": ["Cotton Sucking Pests"]
+  },
+  {
+    "id": "faq_31",
+    "question": "What are the cultural protocols to prevent root knot nematodes?",
+    "answer": "Rotate target beds with French Marigolds (naturally hostile to nematodes), apply dry summer plowing (soil solarization), and add neem seed cake powder to targeted agricultural roots during preparation.",
+    "sources": ["Nematode Suppression Guide"]
+  },
+  {
+    "id": "faq_32",
+    "question": "What is systemic vs contact pesticide?",
+    "answer": "Contact pesticides kill pests on direct touch. Systemic pesticides are absorbed by plant tissues, flowing to stems and leaves, killing insects that feed on the crop. Use contacts for instant knockdowns, systemics for systemic protection.",
+    "sources": ["Chemical Pesticide Dynamics"]
+  },
+  {
+    "id": "faq_33",
+    "question": "How do I cure leaf rust on wheat?",
+    "answer": "Leaf rust presents as bright orange-red powdery pustules on wheat blades. Select rust-resistant crop cultivars, avoid excessive early fertilizer, and apply triazole fungicides if weather forecast indicates high humidity.",
+    "sources": ["Wheat Spot Pathogens"]
+  },
+  {
+    "id": "faq_34",
+    "question": "Why are my mango trees not flowering?",
+    "answer": "Frequent irrigation or high nitrogen applications during early winter promotes vegetative leaf flushes instead of flower buds. Force flower induction by witholding water for 1-2 months prior to the blooming period.",
+    "sources": ["Mango Orchard Productivity"]
+  },
+  {
+    "id": "faq_35",
+    "question": "How do I design a simple farm rainwater harvesting structure?",
+    "answer": "Excavate a farm pond lined with thick LDPE plastic membranes to prevent water seepage. Construct grading channels with simple silt-traps, directing excess monsoon run-offs to the collection pond for emergency Rabi feeds.",
+    "sources": ["Rainwater Harvesting"]
+  },
+  {
+    "id": "faq_36",
+    "question": "What is intercropping and can I mix wheat and mustard?",
+    "answer": "Intercropping cultivation involves growing two or more crops in systematic rows. Growing wheat and mustard in an 9:1 row ratio increases net income, makes crop failure safer, and utilizes land nutrients fully.",
+    "sources": ["Intercropping Mathematics"]
+  },
+  {
+    "id": "faq_37",
+    "question": "What are symptoms of bacterial wilt in eggplants?",
+    "answer": "Plants wilt rapidly starting from leaf tips, often during hot midday hours, reverting temporarily at night. Cutting stems open reveals dark brown inside rings that ooze white bacterial slime under warm water.",
+    "sources": ["Solanaceous Bacterial Wilt"]
+  },
+  {
+    "id": "faq_38",
+    "question": "How does high soil salinity impact plant water intake?",
+    "answer": "High soil salinity creates high osmotic pressure, making it difficult for plant roots to extract water even from moist ground (physiological drought). It causes tip burning and leaf scorch.",
+    "sources": ["Saline Soils Remediation"]
+  },
+  {
+    "id": "faq_39",
+    "question": "How do I neutralize high alkaline soil?",
+    "answer": "Amend alkaline soils with elemental sulfur (which converts to sulfuric acid via soil bacteria) or powder gypsum. Incorporate organic manure regularly to lower pH over seasons.",
+    "sources": ["Alkaline Amendments Guide"]
+  },
+  {
+    "id": "faq_40",
+    "question": "What are symptoms of boron deficiency in alfalfa?",
+    "answer": "Alfalfa presents with yellow or reddish leaf color concentrated on top leaf clusters, with stunted nodes (rosette look). Flowers fail to set. Apply agricultural borax to correct soil levels.",
+    "sources": ["Alfalfa Trace Chemicals"]
+  },
+  {
+    "id": "faq_41",
+    "question": "How does soil mulch conserve water?",
+    "answer": "Mulch blocks direct sunlight, reducing evaporation from soil up to 50%. It keeps soil temperature cool, suppresses weed emergence, and adds natural organic matter when straw/hay decays.",
+    "sources": ["Moisture Retaining Mulches"]
+  },
+  {
+    "id": "faq_42",
+    "question": "What is green manuring and how is it done?",
+    "answer": "Sow fast-growing leguminous crops (e.g., Sesbania, Sunn Hemp). When they start initial flowering, plow them directly into the soil to decompose. This adds nitrogen and organic humus.",
+    "sources": ["Green Manure Protocols"]
+  },
+  {
+    "id": "faq_43",
+    "question": "How can I prevent storage grain pests naturally?",
+    "answer": "Dry grains to low moisture (<10%) before bagging. Clean wood storage structures thoroughly, spray eco-friendly neem extracts, place dry neem leaves inside silos, or hermetically seal bags to starve pests of oxygen.",
+    "sources": ["Post Harvest Loss Mitigation"]
+  },
+  {
+    "id": "faq_44",
+    "question": "Why is compost quality determined by C:N ratio?",
+    "answer": "A Carbon-to-Nitrogen (C:N) ratio around 25:1 to 30:1 is ideal. High carbon slows down decomposition; low carbon causes nitrogen to escape as smelly ammonia gas, lowering compost value.",
+    "sources": ["Aerobic Composting Manual"]
+  },
+  {
+    "id": "faq_45",
+    "question": "What symptoms identify early blight in potatoes?",
+    "answer": "Early Blight, caused by Alternaria solani, shows as dark brown, target-board spots with concentric rings on older leaves first. Apply chlorothalonil or copper sprays when leaves are warm and humid.",
+    "sources": ["Potato Early Blight Research"]
+  },
+  {
+    "id": "faq_46",
+    "question": "How does heavy clay soil harm young plant roots?",
+    "answer": "Clay soils hold water too tightly, leaving no air spaces for oxygen transport (waterlogging). This causes anaerobic root rot, nutrient lock, and hinders physical root expansion due to compaction.",
+    "sources": ["Improving Clay Drainage"]
+  },
+  {
+    "id": "faq_47",
+    "question": "What causes black heart in stored potatoes?",
+    "answer": "Black heart is a physiological disorder caused by lack of oxygen in deep tuber cores during high-temperature shipping or storage. Maintain cold ventilation at 4-8 degrees Celsius.",
+    "sources": ["Cold Storage Venting Standards"]
+  },
+  {
+    "id": "faq_48",
+    "question": "How do I prevent charcoal rot in soybeans?",
+    "answer": "Avoid drought and heat stress by irrigation during early flowering. Encourage crop rotations with non-host items (e.g. wheat), use premium tillers, and apply Trichoderma seed treatments.",
+    "sources": ["Soybean Fungal Pathogens"]
+  },
+  {
+    "id": "faq_49",
+    "question": "What is the role of mycorrhizal fungi in agriculture?",
+    "answer": "Mycorrhizae attach to plant roots, extending the root network up to 10 times. They help absorb bound phosphorus, increase drought resilience, and protect roots against soil pathogens.",
+    "sources": ["Mycorrhizae Inoculants"]
+  },
+  {
+    "id": "faq_50",
+    "question": "Why does soil compaction reduce crop yield?",
+    "answer": "Compaction squashes space pore networks, locking water uptake, blocking essential air exchange, and forming thick physical barriers that stop root elongation, leading to weak plants and 30%+ drop in yield.",
+    "sources": ["Tillage Practices and Hardpans"]
+  }
+]

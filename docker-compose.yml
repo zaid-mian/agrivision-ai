@@ -1,0 +1,24 @@
+services:
+  agrivision-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: agrivision-platform
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+      - SECRET_KEY=agri-platform-production-secret-256
+      # Optional Cloud LLM Vision fallback keys:
+      # - GEMINI_API_KEY=your_gemini_key_here
+      # - OPENROUTER_API_KEY=your_openrouter_key_here
+    volumes:
+      - ./app/data:/app/app/data
+      - ./app/uploads:/app/app/uploads
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3

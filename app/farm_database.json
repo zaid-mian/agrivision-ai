@@ -1,0 +1,2660 @@
+{
+  "users": [
+    {
+      "id": "_i8liinv67",
+      "name": "Ahmad",
+      "email": "ahmadsaeed30777@gmail.com",
+      "passwordHash": "$2b$12$DWGleGG12fBLxuHVQvlRZO3n5J3DAEQNUygeMj3rPBNzwkF439yPi",
+      "location": "Faisalabad,Punjab",
+      "createdAt": "2026-06-12T18:16:51.344Z"
+    },
+    {
+      "id": "_qb2573iwj",
+      "name": "Test Farmer",
+      "email": "test_user_1781293384979@example.com",
+      "passwordHash": "$2b$12$E1jBuBPNeZ9QIQCl/w4TruipJ1202z5j7g9h0m6r0JWfpaO6JNOwK",
+      "location": "Faisalabad",
+      "createdAt": "2026-06-12T19:43:05.447Z"
+    },
+    {
+      "id": "_vuqf1eah0",
+      "name": "Test Farmer",
+      "email": "test_user_1781293454892@example.com",
+      "passwordHash": "$2b$12$q/oLVcTKrBnm/tFhIC4/ceGeULq3ZHskpDdQaMbFxbALGxvrsH2sW",
+      "location": "Faisalabad",
+      "createdAt": "2026-06-12T19:44:15.153Z"
+    },
+    {
+      "id": "_6zhurv962",
+      "name": "Test Farmer",
+      "email": "test_user_1781293504781@example.com",
+      "passwordHash": "$2b$12$0XE5WcvpBVC6txhpPuYphuUBAtypbevP9Cl4ui1UbBx3Qb8zaibsa",
+      "location": "Faisalabad",
+      "createdAt": "2026-06-12T19:45:05.035Z"
+    },
+    {
+      "id": "_rctvlnkze",
+      "name": "Test Farmer",
+      "email": "test_user_1781293560609@example.com",
+      "passwordHash": "$2b$12$rXnwcPbcARg3V7F/yhPrfeHx8.3p8YHxqeSX93ppg09cPNWcZo2aG",
+      "location": "Faisalabad",
+      "createdAt": "2026-06-12T19:46:00.894Z"
+    },
+    {
+      "id": "_1rsp40bgj",
+      "name": "Test Farmer",
+      "email": "test_user_1781294026536@example.com",
+      "passwordHash": "$2b$12$26w3bzNDMoOsfVlb1Q4rxeu/LZfz7XJcqysKGfY6H0ODmCuPv3/Ny",
+      "location": "Faisalabad",
+      "createdAt": "2026-06-12T19:53:46.837Z"
+    },
+    {
+      "id": "_0womua9fi",
+      "name": "ML ENGINEER",
+      "email": "mlengineer44@gmail.com",
+      "passwordHash": "$2b$12$aYdy06kEOWWMCwGhEuUUJeTorpMSqVGdP1gcNHNZKKIgU4iCqlHay",
+      "location": "Faisalabad",
+      "createdAt": "2026-10-07T20:18:09.598Z"
+    },
+    {
+      "id": "_xefdfuzgg",
+      "name": "ML ENGINEER",
+      "email": "mlengineer43@gmail.com",
+      "passwordHash": "$2b$12$Uj1OmZAw.pW.o2GiL5PF.ehpWNi65cvicYHZ.TuFCjUTrPYdYR7Li",
+      "location": "Faisalabad",
+      "createdAt": "2026-10-08T07:08:08.595Z"
+    }
+  ],
+  "farmRecords": [
+    {
+      "id": "_x5gjvirbe",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 90,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:17:27.581Z"
+    },
+    {
+      "id": "_nlm6oc1ut",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 90,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:17:30.797Z"
+    },
+    {
+      "id": "_z54v6116u",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 90,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:21:10.298Z"
+    },
+    {
+      "id": "_iad5xpgx6",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 90,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:21:12.505Z"
+    },
+    {
+      "id": "_sgpqq73cn",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 90,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:21:22.163Z"
+    },
+    {
+      "id": "_1rj9r6bky",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 90,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:21:38.937Z"
+    },
+    {
+      "id": "_297lgjhba",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 90,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:23:19.236Z"
+    },
+    {
+      "id": "_xv4tsgip9",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 90,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:23:22.217Z"
+    },
+    {
+      "id": "_rsgjo31cf",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 90,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:23:24.210Z"
+    },
+    {
+      "id": "_7di36ia24",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 90,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:26:51.577Z"
+    },
+    {
+      "id": "_fxqrepp4u",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 90,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:32:50.505Z"
+    },
+    {
+      "id": "_juc654mkb",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 90,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:41:49.049Z"
+    },
+    {
+      "id": "_gpwh37bdx",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 90,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:42:00.448Z"
+    },
+    {
+      "id": "_p80iotcgy",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 90,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:50:21.410Z"
+    },
+    {
+      "id": "_zchf2gh64",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 87,
+        "P": 32,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:50:54.362Z"
+    },
+    {
+      "id": "_uur9yb4h6",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 87,
+        "P": 32,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:51:05.140Z"
+    },
+    {
+      "id": "_g0pyxdmeh",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 87,
+        "P": 32,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:51:10.407Z"
+    },
+    {
+      "id": "_19n7k73ut",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 87,
+        "P": 32,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:51:17.391Z"
+    },
+    {
+      "id": "_was7diny4",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 90,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:51:59.777Z"
+    },
+    {
+      "id": "_yy847n8tt",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 90,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:54:43.229Z"
+    },
+    {
+      "id": "_me1g0uv4p",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 50,
+        "P": 41,
+        "K": 23,
+        "pH": 5.2,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:55:13.021Z"
+    },
+    {
+      "id": "_24nwpm18k",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 50,
+        "P": 41,
+        "K": 23,
+        "pH": 5.2,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:55:19.857Z"
+    },
+    {
+      "id": "_xd23t3bh8",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 80,
+        "P": 22,
+        "K": 43,
+        "pH": 4.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:55:53.248Z"
+    },
+    {
+      "id": "_f8980pzax",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 90,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:56:36.788Z"
+    },
+    {
+      "id": "_0i18plln5",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 60,
+        "P": 32,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:57:14.514Z"
+    },
+    {
+      "id": "_24uuf4nmg",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 60,
+        "P": 32,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:57:20.331Z"
+    },
+    {
+      "id": "_3tya55aqc",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 90,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T18:58:54.549Z"
+    },
+    {
+      "id": "_itge4kq4c",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 90,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T19:00:48.312Z"
+    },
+    {
+      "id": "_e6y18m1e5",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 60,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T19:00:59.798Z"
+    },
+    {
+      "id": "_94nu62955",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 60,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T19:01:02.349Z"
+    },
+    {
+      "id": "_eho3klqkq",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 90,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T19:08:27.131Z"
+    },
+    {
+      "id": "_6vjm30n14",
+      "userId": "_i8liinv67",
+      "crop": "Wheat (Gandum)",
+      "soil_data": {
+        "N": 80,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T19:08:40.863Z"
+    },
+    {
+      "id": "_1xyi40iv3",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 60,
+        "P": 32,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T19:09:01.112Z"
+    },
+    {
+      "id": "_p15d5a7zz",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 70,
+        "P": 32,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T19:09:17.364Z"
+    },
+    {
+      "id": "_wshb41hkx",
+      "userId": "_i8liinv67",
+      "crop": "Lentils (Masoor)",
+      "soil_data": {
+        "N": 40,
+        "P": 32,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T19:09:29.481Z"
+    },
+    {
+      "id": "_pydkbnfkm",
+      "userId": "_i8liinv67",
+      "crop": "Wheat (Gandum)",
+      "soil_data": {
+        "N": 80,
+        "P": 22,
+        "K": 13,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T19:11:56.016Z"
+    },
+    {
+      "id": "_kg8mvt1mw",
+      "userId": "_i8liinv67",
+      "crop": "Lentils (Masoor)",
+      "soil_data": {
+        "N": 10,
+        "P": 22,
+        "K": 13,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T19:12:12.863Z"
+    },
+    {
+      "id": "_iqssq7nw1",
+      "userId": "_i8liinv67",
+      "crop": "Lentils (Masoor)",
+      "soil_data": {
+        "N": 10,
+        "P": 42,
+        "K": 13,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T19:12:22.578Z"
+    },
+    {
+      "id": "_qy7wibe5l",
+      "userId": "_i8liinv67",
+      "crop": "Lentils (Masoor)",
+      "soil_data": {
+        "N": 10,
+        "P": 42,
+        "K": 13,
+        "pH": 6.5,
+        "rainfall": 240.43
+      },
+      "created_at": "2026-06-12T19:12:38.156Z"
+    },
+    {
+      "id": "_m8i7fxov5",
+      "userId": "_i8liinv67",
+      "crop": "Lentils (Masoor)",
+      "soil_data": {
+        "N": 10,
+        "P": 42,
+        "K": 53,
+        "pH": 8.5,
+        "rainfall": 240.43
+      },
+      "created_at": "2026-06-12T19:12:56.511Z"
+    },
+    {
+      "id": "_omonii7ac",
+      "userId": "_i8liinv67",
+      "crop": "Lentils (Masoor)",
+      "soil_data": {
+        "N": 40,
+        "P": 42,
+        "K": 53,
+        "pH": 8.5,
+        "rainfall": 240.43
+      },
+      "created_at": "2026-06-12T19:13:16.680Z"
+    },
+    {
+      "id": "_dk95dsozv",
+      "userId": "_i8liinv67",
+      "crop": "Lentils (Masoor)",
+      "soil_data": {
+        "N": 30,
+        "P": 62,
+        "K": 93,
+        "pH": 8.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T19:15:21.559Z"
+    },
+    {
+      "id": "_6agq74jhm",
+      "userId": "_qb2573iwj",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 95,
+        "P": 55,
+        "K": 45,
+        "pH": 6.3,
+        "rainfall": 180
+      },
+      "created_at": "2026-06-12T19:43:08.995Z"
+    },
+    {
+      "id": "_g2qn7dw2i",
+      "userId": "_vuqf1eah0",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 95,
+        "P": 55,
+        "K": 45,
+        "pH": 6.3,
+        "rainfall": 180
+      },
+      "created_at": "2026-06-12T19:44:18.667Z"
+    },
+    {
+      "id": "_e5lzdupbp",
+      "userId": "_6zhurv962",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 95,
+        "P": 55,
+        "K": 45,
+        "pH": 6.3,
+        "rainfall": 180
+      },
+      "created_at": "2026-06-12T19:45:08.552Z"
+    },
+    {
+      "id": "_q32nsoivx",
+      "userId": "_rctvlnkze",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 95,
+        "P": 55,
+        "K": 45,
+        "pH": 6.3,
+        "rainfall": 180
+      },
+      "created_at": "2026-06-12T19:46:05.767Z"
+    },
+    {
+      "id": "_73ot4mg25",
+      "userId": "_i8liinv67",
+      "crop": "Lentils (Masoor)",
+      "soil_data": {
+        "N": 50,
+        "P": 42,
+        "K": 43,
+        "pH": 9.5,
+        "rainfall": 243.21
+      },
+      "created_at": "2026-06-12T19:49:39.479Z"
+    },
+    {
+      "id": "_8f15d3lko",
+      "userId": "_1rsp40bgj",
+      "crop": "Rice (چاول)",
+      "soil_data": {
+        "N": 95,
+        "P": 55,
+        "K": 45,
+        "pH": 6.3,
+        "rainfall": 180
+      },
+      "created_at": "2026-06-12T19:54:00.463Z"
+    },
+    {
+      "id": "_lnl84kpln",
+      "userId": "_i8liinv67",
+      "crop": "Rice (Chawal)",
+      "soil_data": {
+        "N": 90,
+        "P": 42,
+        "K": 43,
+        "pH": 6.5,
+        "rainfall": 202.93
+      },
+      "created_at": "2026-06-12T19:57:41.970Z"
+    },
+    {
+      "id": "_m7jsu06ie",
+      "userId": "_i8liinv67",
+      "crop": "Lentils (Masoor)",
+      "soil_data": {
+        "N": 60,
+        "P": 42,
+        "K": 43,
+        "pH": 7.5,
+        "rainfall": 256.77
+      },
+      "created_at": "2026-06-12T19:58:02.623Z"
+    }
+  ],
+  "diseaseResults": [
+    {
+      "id": "_9pu264xh0",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1781288230956-797817476.jpg",
+      "disease": "Potato Early Blight (Alternaria Solani)",
+      "confidence": 0.85,
+      "severity": "medium",
+      "treatment": "Spray chlorothalonil or copper fungicides block-wise. Enrich soil with organic bone meal to boost resistance.",
+      "prevention": "Insulate dry soil surfaces with deep straw mulch. Avoid overwatering close to late evening hours.",
+      "date": "2026-06-12T18:17:10.965Z"
+    },
+    {
+      "id": "_5kj151z3p",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1781288241711-494697448.jpg",
+      "disease": "Potato Early Blight (Alternaria Solani)",
+      "confidence": 0.85,
+      "severity": "medium",
+      "treatment": "Spray chlorothalonil or copper fungicides block-wise. Enrich soil with organic bone meal to boost resistance.",
+      "prevention": "Insulate dry soil surfaces with deep straw mulch. Avoid overwatering close to late evening hours.",
+      "date": "2026-06-12T18:17:21.718Z"
+    },
+    {
+      "id": "_c00jdgipg",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1781288440384-184301605.jpg",
+      "disease": "Potato Early Blight (Alternaria Solani)",
+      "confidence": 0.85,
+      "severity": "medium",
+      "treatment": "Spray chlorothalonil or copper fungicides block-wise. Enrich soil with organic bone meal to boost resistance.",
+      "prevention": "Insulate dry soil surfaces with deep straw mulch. Avoid overwatering close to late evening hours.",
+      "date": "2026-06-12T18:20:40.394Z"
+    },
+    {
+      "id": "_lfv6dh609",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1781288461085-349362270.jpg",
+      "disease": "Potato Early Blight (Alternaria Solani)",
+      "confidence": 0.85,
+      "severity": "medium",
+      "treatment": "Spray chlorothalonil or copper fungicides block-wise. Enrich soil with organic bone meal to boost resistance.",
+      "prevention": "Insulate dry soil surfaces with deep straw mulch. Avoid overwatering close to late evening hours.",
+      "date": "2026-06-12T18:21:01.089Z"
+    },
+    {
+      "id": "_94ajxd9mh",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1781288801650-153195718.jpg",
+      "disease": "Potato Early Blight (Alternaria Solani)",
+      "confidence": 0.85,
+      "severity": "medium",
+      "treatment": "Spray chlorothalonil or copper fungicides block-wise. Enrich soil with organic bone meal to boost resistance.",
+      "prevention": "Insulate dry soil surfaces with deep straw mulch. Avoid overwatering close to late evening hours.",
+      "date": "2026-06-12T18:26:41.656Z"
+    },
+    {
+      "id": "_8l5bx12oq",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1781290762378-18250638.jpg",
+      "disease": "Potato Early Blight (Alternaria Solani)",
+      "confidence": 0.85,
+      "severity": "medium",
+      "treatment": "Spray chlorothalonil or copper fungicides block-wise. Enrich soil with organic bone meal to boost resistance.",
+      "prevention": "Insulate dry soil surfaces with deep straw mulch. Avoid overwatering close to late evening hours.",
+      "date": "2026-06-12T18:59:22.382Z"
+    },
+    {
+      "id": "_0ohxcyrsu",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1781291807940-941741603.jpg",
+      "disease": "Potato Early Blight (Alternaria Solani)",
+      "confidence": 0.85,
+      "severity": "medium",
+      "treatment": "Spray chlorothalonil or copper fungicides block-wise. Enrich soil with organic bone meal to boost resistance.",
+      "prevention": "Insulate dry soil surfaces with deep straw mulch. Avoid overwatering close to late evening hours.",
+      "date": "2026-06-12T19:16:47.945Z"
+    },
+    {
+      "id": "_leuqo0t1h",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1781291983701-811083380.jpg",
+      "disease": "Potato Early Blight (Alternaria Solani)",
+      "confidence": 0.85,
+      "severity": "medium",
+      "treatment": "Spray chlorothalonil or copper fungicides block-wise. Enrich soil with organic bone meal to boost resistance.",
+      "prevention": "Insulate dry soil surfaces with deep straw mulch. Avoid overwatering close to late evening hours.",
+      "date": "2026-06-12T19:19:45.555Z"
+    },
+    {
+      "id": "_p620mjo61",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1781292258264-899831633.webp",
+      "disease": "Powdery Mildew (Safed Phaphoondi - سفید پھپھوندی)",
+      "confidence": 0.95,
+      "severity": "medium",
+      "treatment": "Immediately remove and destroy all heavily infected leaves and plant debris to reduce the fungal inoculum. For organic control, apply a solution of neem oil, potassium bicarbonate (1 tablespoon per gallon of water with a drop of liquid soap), or sulfur-based fungicides. For conventional control, fungicides containing active ingredients such as myclobutanil, propiconazole, or azoxystrobin can be effective. Ensure thorough spray coverage, especially on the undersides of leaves, and reapply according to product label instructions.",
+      "prevention": "Ensure proper plant spacing to promote good air circulation, which helps reduce humidity around the foliage. Water plants at the base in the morning to allow leaves to dry quickly, avoiding overhead irrigation. Select disease-resistant crop varieties if available. Prune dense canopy growth to further improve air movement. Regularly monitor plants for early signs of powdery mildew, especially during warm, dry days followed by cool, humid nights.",
+      "date": "2026-06-12T19:24:25.894Z"
+    },
+    {
+      "id": "_m71xxlyuk",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1781292279275-516037084.jpg",
+      "disease": "Potato Early Blight (Alternaria Solani)",
+      "confidence": 0.85,
+      "severity": "medium",
+      "treatment": "Spray chlorothalonil or copper fungicides block-wise. Enrich soil with organic bone meal to boost resistance.",
+      "prevention": "Insulate dry soil surfaces with deep straw mulch. Avoid overwatering close to late evening hours.",
+      "date": "2026-06-12T19:24:41.039Z"
+    },
+    {
+      "id": "_eo4o2iipe",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1781292285496-522375299.jpg",
+      "disease": "Potato Early Blight (Alternaria Solani)",
+      "confidence": 0.85,
+      "severity": "medium",
+      "treatment": "Spray chlorothalonil or copper fungicides block-wise. Enrich soil with organic bone meal to boost resistance.",
+      "prevention": "Insulate dry soil surfaces with deep straw mulch. Avoid overwatering close to late evening hours.",
+      "date": "2026-06-12T19:24:49.090Z"
+    },
+    {
+      "id": "_o2zapy5e7",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1781292317390-892514472.webp",
+      "disease": "Tomato Late Blight",
+      "confidence": 0.92,
+      "severity": "high",
+      "treatment": "Apply copper-based biological fungicide immediately. Prune heavily diseased lower-stem leaf branches to prevent pathogen spore propagation.",
+      "prevention": "Avoid overhead irrigation to keep foliage dry. Practice a 3-year crop rotation and space plants to ensure robust interior air circulation.",
+      "date": "2026-06-12T19:25:19.508Z"
+    },
+    {
+      "id": "_xoo89bejc",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1781292370640-38123521.webp",
+      "disease": "Tomato Late Blight",
+      "confidence": 0.92,
+      "severity": "high",
+      "treatment": "Apply copper-based biological fungicide immediately. Prune heavily diseased lower-stem leaf branches to prevent pathogen spore propagation.",
+      "prevention": "Avoid overhead irrigation to keep foliage dry. Practice a 3-year crop rotation and space plants to ensure robust interior air circulation.",
+      "date": "2026-06-12T19:26:13.096Z"
+    },
+    {
+      "id": "_fk1awl5s4",
+      "userId": "_qb2573iwj",
+      "imagePath": "/uploads/leaf-1781293392558-257562328.jpg",
+      "disease": "Potato Early Blight / Aloo ka Ageti Jhulsa (Alternaria solani)",
+      "confidence": 0.85,
+      "severity": "medium",
+      "treatment": "Spray chlorothalonil or copper fungicides block-wise. Enrich soil with organic bone meal to boost resistance.",
+      "prevention": "Insulate dry soil surfaces with deep straw mulch. Avoid overwatering close to late evening hours.",
+      "date": "2026-06-12T19:43:20.588Z"
+    },
+    {
+      "id": "_ncv1bxom1",
+      "userId": "_vuqf1eah0",
+      "imagePath": "/uploads/leaf-1781293462189-595592003.jpg",
+      "disease": "Potato Early Blight / Aloo ka Ageti Jhulsa (Alternaria solani)",
+      "confidence": 0.85,
+      "severity": "medium",
+      "treatment": "Spray chlorothalonil or copper fungicides block-wise. Enrich soil with organic bone meal to boost resistance.",
+      "prevention": "Insulate dry soil surfaces with deep straw mulch. Avoid overwatering close to late evening hours.",
+      "date": "2026-06-12T19:44:30.197Z"
+    },
+    {
+      "id": "_nialoap1h",
+      "userId": "_6zhurv962",
+      "imagePath": "/uploads/leaf-1781293512089-679058442.jpg",
+      "disease": "Apple Scab / Saib ka Khujli Rog (Venturia inaequalis)",
+      "confidence": 0.85,
+      "severity": "medium",
+      "treatment": "Apply sulfur or myclobutanil fungicides during green-tip stage. Rake and destroy fallen leaves in autumn.",
+      "prevention": "Select scab-resistant cultivars and prune trees to keep the internal canopy open for fast drying.",
+      "date": "2026-06-12T19:45:15.086Z"
+    },
+    {
+      "id": "_173915ole",
+      "userId": "_rctvlnkze",
+      "imagePath": "/uploads/leaf-1781293569858-407803635.jpg",
+      "disease": "Apple Scab / Saib ka Khujli Rog (Venturia inaequalis)",
+      "confidence": 0.85,
+      "severity": "medium",
+      "treatment": "Apply sulfur or myclobutanil fungicides during green-tip stage. Rake and destroy fallen leaves in autumn.",
+      "prevention": "Select scab-resistant cultivars and prune trees to keep the internal canopy open for fast drying.",
+      "date": "2026-06-12T19:46:13.206Z"
+    },
+    {
+      "id": "_xmhtbaazl",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1781294232179-978706702.webp",
+      "disease": "Chili Anthracnose Fruit Rot / Mirch ka Anthracnose (Colletotrichum capsici)",
+      "confidence": 0.92,
+      "severity": "high",
+      "treatment": "Apply copper oxychloride solution at first leaf-spot onset. Gather and bury rotten fruits.",
+      "prevention": "Sow premium disease-free seeds. Prune bottom weeds to promote rapid top-canopy drying.",
+      "date": "2026-06-12T19:57:17.553Z"
+    },
+    {
+      "id": "_0sfpkojwe",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1781294247621-83731107.webp",
+      "disease": "Citrus Canker / Citrus ka Nasoor (Xanthomonas axonopodis)",
+      "confidence": 0.92,
+      "severity": "medium",
+      "treatment": "Apply copper-based sprays during shoot growth cycles. Prune affected branches and disinfect tools immediately.",
+      "prevention": "Plant windbreaks around orchards to prevent wind-borne rain transmission. Use clean budwood.",
+      "date": "2026-06-12T19:57:32.373Z"
+    },
+    {
+      "id": "_oeibuh92m",
+      "userId": "_0womua9fi",
+      "imagePath": "/uploads/leaf-1791404318112-38743091.jpg",
+      "disease": "Uncertain — manual review recommended",
+      "confidence": 0.5,
+      "severity": "medium",
+      "treatment": "No confident diagnosis could be made from this image. Try a clearer, close-up photo of a single leaf in daylight.",
+      "prevention": "For a reliable result, upload a sharp close-up of one leaf. A local agricultural extension officer can confirm.",
+      "source": "uncertain",
+      "date": "2026-10-07T20:18:39.551Z"
+    },
+    {
+      "id": "_bj3c5wh6y",
+      "userId": "test-user",
+      "imagePath": "/uploads/leaf-1791442948124-642097869.jpg",
+      "disease": "Tomato Late Blight / Tamatar ka Jhulsa Rog (Phytophthora infestans)",
+      "confidence": 0.88,
+      "severity": "high",
+      "treatment": "Apply copper-based fungicide immediately. Remove and destroy infected plants away from the field.",
+      "prevention": "Water at soil level, never on foliage. Provide wide spacing for airflow.",
+      "source": "local-model",
+      "date": "2026-10-08T07:02:28.244Z"
+    },
+    {
+      "id": "_dacgdkvqu",
+      "userId": "_xefdfuzgg",
+      "imagePath": "/uploads/leaf-1791443300388-376372678.jpg",
+      "disease": "Tomato Late Blight / Tamatar ka Jhulsa Rog (Phytophthora infestans)",
+      "confidence": 0.88,
+      "severity": "high",
+      "treatment": "Apply copper-based fungicide immediately. Remove and destroy infected plants away from the field.",
+      "prevention": "Water at soil level, never on foliage. Provide wide spacing for airflow.",
+      "source": "local-model",
+      "date": "2026-10-08T07:08:20.518Z"
+    },
+    {
+      "id": "_sti83onnq",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1791444821017-232967607.jpg",
+      "disease": "Tomato Late Blight / Tamatar ka Jhulsa Rog (Phytophthora infestans)",
+      "confidence": 0.88,
+      "severity": "high",
+      "treatment": "Apply copper-based fungicide immediately. Remove and destroy infected plants away from the field.",
+      "prevention": "Water at soil level, never on foliage. Provide wide spacing for airflow.",
+      "source": "local-model",
+      "date": "2026-10-08T07:33:41.213Z",
+      "top3": [
+        {
+          "classId": "Tomato___Late_blight",
+          "disease": "Tomato Late Blight / Tamatar ka Jhulsa Rog (Phytophthora infestans)",
+          "confidence": 0.88
+        },
+        {
+          "classId": "Pepper_bell___Bacterial_spot",
+          "disease": "Pepper Bacterial Spot / Shimla Mirch ka Bacterial Dhabba (Xanthomonas euvesicatoria)",
+          "confidence": 0.11
+        },
+        {
+          "classId": "Tomato___Early_blight",
+          "disease": "Tomato Early Blight / Tamatar ka Ageti Jhulsa (Alternaria solani)",
+          "confidence": 0
+        }
+      ],
+      "inferenceTimeMs": 87,
+      "heatmapPath": "/uploads/leaf-1791444821017-232967607_heatmap.png"
+    },
+    {
+      "id": "_ocb9lreiz",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1791447826028-237119054.jpg",
+      "disease": "Tomato Late Blight / Tamatar ka Jhulsa Rog (Phytophthora infestans)",
+      "confidence": 0.88,
+      "severity": "high",
+      "treatment": "Apply copper-based fungicide immediately. Remove and destroy infected plants away from the field.",
+      "prevention": "Water at soil level, never on foliage. Provide wide spacing for airflow.",
+      "source": "local-model",
+      "date": "2026-10-08T08:23:46.108Z",
+      "top3": [
+        {
+          "classId": "Tomato___Late_blight",
+          "disease": "Tomato Late Blight / Tamatar ka Jhulsa Rog (Phytophthora infestans)",
+          "confidence": 0.88
+        },
+        {
+          "classId": "Pepper_bell___Bacterial_spot",
+          "disease": "Pepper Bacterial Spot / Shimla Mirch ka Bacterial Dhabba (Xanthomonas euvesicatoria)",
+          "confidence": 0.11
+        },
+        {
+          "classId": "Tomato___Early_blight",
+          "disease": "Tomato Early Blight / Tamatar ka Ageti Jhulsa (Alternaria solani)",
+          "confidence": 0
+        }
+      ],
+      "inferenceTimeMs": 39,
+      "heatmapPath": "/uploads/leaf-1791447826028-237119054_heatmap.png"
+    },
+    {
+      "id": "_klfogd2do",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1791447993475-787445464.jpg",
+      "disease": "Tomato Late Blight / Tamatar ka Jhulsa Rog (Phytophthora infestans)",
+      "confidence": 0.88,
+      "severity": "high",
+      "treatment": "Apply copper-based fungicide immediately. Remove and destroy infected plants away from the field.",
+      "prevention": "Water at soil level, never on foliage. Provide wide spacing for airflow.",
+      "source": "local-model",
+      "date": "2026-10-08T08:26:33.555Z",
+      "top3": [
+        {
+          "classId": "Tomato___Late_blight",
+          "disease": "Tomato Late Blight / Tamatar ka Jhulsa Rog (Phytophthora infestans)",
+          "confidence": 0.88
+        },
+        {
+          "classId": "Pepper_bell___Bacterial_spot",
+          "disease": "Pepper Bacterial Spot / Shimla Mirch ka Bacterial Dhabba (Xanthomonas euvesicatoria)",
+          "confidence": 0.11
+        },
+        {
+          "classId": "Tomato___Early_blight",
+          "disease": "Tomato Early Blight / Tamatar ka Ageti Jhulsa (Alternaria solani)",
+          "confidence": 0
+        }
+      ],
+      "inferenceTimeMs": 27,
+      "heatmapPath": "/uploads/leaf-1791447993475-787445464_heatmap.png"
+    },
+    {
+      "id": "_t8tlcvzj3",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1791448360974-291873821.jpg",
+      "disease": "Tomato Late Blight / Tamatar ka Jhulsa Rog (Phytophthora infestans)",
+      "confidence": 0.88,
+      "severity": "high",
+      "treatment": "Apply copper-based fungicide immediately. Remove and destroy infected plants away from the field.",
+      "prevention": "Water at soil level, never on foliage. Provide wide spacing for airflow.",
+      "source": "local-model",
+      "date": "2026-10-08T08:32:41.060Z",
+      "top3": [
+        {
+          "classId": "Tomato___Late_blight",
+          "disease": "Tomato Late Blight / Tamatar ka Jhulsa Rog (Phytophthora infestans)",
+          "confidence": 0.88
+        },
+        {
+          "classId": "Pepper_bell___Bacterial_spot",
+          "disease": "Pepper Bacterial Spot / Shimla Mirch ka Bacterial Dhabba (Xanthomonas euvesicatoria)",
+          "confidence": 0.11
+        },
+        {
+          "classId": "Tomato___Early_blight",
+          "disease": "Tomato Early Blight / Tamatar ka Ageti Jhulsa (Alternaria solani)",
+          "confidence": 0
+        }
+      ],
+      "inferenceTimeMs": 31,
+      "heatmapPath": "/uploads/leaf-1791448360974-291873821_heatmap.png"
+    },
+    {
+      "id": "_lg3wu0ouv",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1791465922680-300952766.jpg",
+      "disease": "Tomato Late Blight / Tamatar ka Jhulsa Rog (Phytophthora infestans)",
+      "confidence": 0.88,
+      "severity": "high",
+      "treatment": "Apply copper-based fungicide immediately. Remove and destroy infected plants away from the field.",
+      "prevention": "Water at soil level, never on foliage. Provide wide spacing for airflow.",
+      "source": "local-model",
+      "date": "2026-10-08T13:25:22.785Z",
+      "top3": [
+        {
+          "classId": "Tomato___Late_blight",
+          "disease": "Tomato Late Blight / Tamatar ka Jhulsa Rog (Phytophthora infestans)",
+          "confidence": 0.88
+        },
+        {
+          "classId": "Pepper_bell___Bacterial_spot",
+          "disease": "Pepper Bacterial Spot / Shimla Mirch ka Bacterial Dhabba (Xanthomonas euvesicatoria)",
+          "confidence": 0.11
+        },
+        {
+          "classId": "Tomato___Early_blight",
+          "disease": "Tomato Early Blight / Tamatar ka Ageti Jhulsa (Alternaria solani)",
+          "confidence": 0
+        }
+      ],
+      "inferenceTimeMs": 28,
+      "heatmapPath": "/uploads/leaf-1791465922680-300952766_heatmap.png"
+    },
+    {
+      "id": "_acy3zjned",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1791465923215-887810137.jpg",
+      "disease": "Tomato Late Blight / Tamatar ka Jhulsa Rog (Phytophthora infestans)",
+      "confidence": 0.88,
+      "severity": "high",
+      "treatment": "Apply copper-based fungicide immediately. Remove and destroy infected plants away from the field.",
+      "prevention": "Water at soil level, never on foliage. Provide wide spacing for airflow.",
+      "source": "local-model",
+      "date": "2026-10-08T13:25:23.291Z",
+      "top3": [
+        {
+          "classId": "Tomato___Late_blight",
+          "disease": "Tomato Late Blight / Tamatar ka Jhulsa Rog (Phytophthora infestans)",
+          "confidence": 0.88
+        },
+        {
+          "classId": "Pepper_bell___Bacterial_spot",
+          "disease": "Pepper Bacterial Spot / Shimla Mirch ka Bacterial Dhabba (Xanthomonas euvesicatoria)",
+          "confidence": 0.11
+        },
+        {
+          "classId": "Tomato___Early_blight",
+          "disease": "Tomato Early Blight / Tamatar ka Ageti Jhulsa (Alternaria solani)",
+          "confidence": 0
+        }
+      ],
+      "inferenceTimeMs": 24,
+      "heatmapPath": "/uploads/leaf-1791465923215-887810137_heatmap.png"
+    },
+    {
+      "id": "_rtddgcf3x",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1791466264369-89313952.jpg",
+      "disease": "Tomato Late Blight / Tamatar ka Jhulsa Rog (Phytophthora infestans)",
+      "confidence": 0.88,
+      "severity": "high",
+      "treatment": "Apply copper-based fungicide immediately. Remove and destroy infected plants away from the field.",
+      "prevention": "Water at soil level, never on foliage. Provide wide spacing for airflow.",
+      "source": "local-model",
+      "date": "2026-10-08T13:31:04.443Z",
+      "top3": [
+        {
+          "classId": "Tomato___Late_blight",
+          "disease": "Tomato Late Blight / Tamatar ka Jhulsa Rog (Phytophthora infestans)",
+          "confidence": 0.88
+        },
+        {
+          "classId": "Pepper_bell___Bacterial_spot",
+          "disease": "Pepper Bacterial Spot / Shimla Mirch ka Bacterial Dhabba (Xanthomonas euvesicatoria)",
+          "confidence": 0.11
+        },
+        {
+          "classId": "Tomato___Early_blight",
+          "disease": "Tomato Early Blight / Tamatar ka Ageti Jhulsa (Alternaria solani)",
+          "confidence": 0
+        }
+      ],
+      "inferenceTimeMs": 22,
+      "heatmapPath": "/uploads/leaf-1791466264369-89313952_heatmap.png"
+    },
+    {
+      "id": "_88ux1d70m",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1791466264913-442898230.jpg",
+      "disease": "Tomato Late Blight / Tamatar ka Jhulsa Rog (Phytophthora infestans)",
+      "confidence": 0.88,
+      "severity": "high",
+      "treatment": "Apply copper-based fungicide immediately. Remove and destroy infected plants away from the field.",
+      "prevention": "Water at soil level, never on foliage. Provide wide spacing for airflow.",
+      "source": "local-model",
+      "date": "2026-10-08T13:31:05.006Z",
+      "top3": [
+        {
+          "classId": "Tomato___Late_blight",
+          "disease": "Tomato Late Blight / Tamatar ka Jhulsa Rog (Phytophthora infestans)",
+          "confidence": 0.88
+        },
+        {
+          "classId": "Pepper_bell___Bacterial_spot",
+          "disease": "Pepper Bacterial Spot / Shimla Mirch ka Bacterial Dhabba (Xanthomonas euvesicatoria)",
+          "confidence": 0.11
+        },
+        {
+          "classId": "Tomato___Early_blight",
+          "disease": "Tomato Early Blight / Tamatar ka Ageti Jhulsa (Alternaria solani)",
+          "confidence": 0
+        }
+      ],
+      "inferenceTimeMs": 33,
+      "heatmapPath": "/uploads/leaf-1791466264913-442898230_heatmap.png"
+    },
+    {
+      "id": "_b5ynhsfka",
+      "userId": "_i8liinv67",
+      "imagePath": "/uploads/leaf-1791467653399-738718117.jpg",
+      "disease": "Tomato Late Blight / Tamatar ka Jhulsa Rog (Phytophthora infestans)",
+      "confidence": 0.88,
+      "severity": "high",
+      "treatment": "Apply copper-based fungicide immediately. Remove and destroy infected plants away from the field.",
+      "prevention": "Water at soil level, never on foliage. Provide wide spacing for airflow.",
+      "source": "local-model",
+      "date": "2026-10-08T13:54:13.471Z",
+      "top3": [
+        {
+          "classId": "Tomato___Late_blight",
+          "disease": "Tomato Late Blight / Tamatar ka Jhulsa Rog (Phytophthora infestans)",
+          "confidence": 0.88
+        },
+        {
+          "classId": "Pepper_bell___Bacterial_spot",
+          "disease": "Pepper Bacterial Spot / Shimla Mirch ka Bacterial Dhabba (Xanthomonas euvesicatoria)",
+          "confidence": 0.11
+        },
+        {
+          "classId": "Tomato___Early_blight",
+          "disease": "Tomato Early Blight / Tamatar ka Ageti Jhulsa (Alternaria solani)",
+          "confidence": 0
+        }
+      ],
+      "inferenceTimeMs": 25,
+      "heatmapPath": "/uploads/leaf-1791467653399-738718117_heatmap.png"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "_0eonqjg5d",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.94,
+        "reason": "An abundant watering supply (rainfall >180mm) and high ambient humidity are highly optimal for submerged puddle cultivation of tropical Rice structures.",
+        "soil_data": {
+          "N": 90,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:17:27.581Z"
+    },
+    {
+      "id": "_lruqgz5r7",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.94,
+        "reason": "An abundant watering supply (rainfall >180mm) and high ambient humidity are highly optimal for submerged puddle cultivation of tropical Rice structures.",
+        "soil_data": {
+          "N": 90,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:17:30.797Z"
+    },
+    {
+      "id": "_1l51hbq1p",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.94,
+        "reason": "An abundant watering supply (rainfall >180mm) and high ambient humidity are highly optimal for submerged puddle cultivation of tropical Rice structures.",
+        "soil_data": {
+          "N": 90,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:21:10.298Z"
+    },
+    {
+      "id": "_lci885vsg",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.94,
+        "reason": "An abundant watering supply (rainfall >180mm) and high ambient humidity are highly optimal for submerged puddle cultivation of tropical Rice structures.",
+        "soil_data": {
+          "N": 90,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:21:12.505Z"
+    },
+    {
+      "id": "_2w1r3b4ys",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.94,
+        "reason": "An abundant watering supply (rainfall >180mm) and high ambient humidity are highly optimal for submerged puddle cultivation of tropical Rice structures.",
+        "soil_data": {
+          "N": 90,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:21:22.163Z"
+    },
+    {
+      "id": "_o6sijuh4i",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.94,
+        "reason": "An abundant watering supply (rainfall >180mm) and high ambient humidity are highly optimal for submerged puddle cultivation of tropical Rice structures.",
+        "soil_data": {
+          "N": 90,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:21:38.936Z"
+    },
+    {
+      "id": "_v6y5xzzgj",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.94,
+        "reason": "An abundant watering supply (rainfall >180mm) and high ambient humidity are highly optimal for submerged puddle cultivation of tropical Rice structures.",
+        "soil_data": {
+          "N": 90,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:23:19.236Z"
+    },
+    {
+      "id": "_cyusbv0tb",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.94,
+        "reason": "An abundant watering supply (rainfall >180mm) and high ambient humidity are highly optimal for submerged puddle cultivation of tropical Rice structures.",
+        "soil_data": {
+          "N": 90,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:23:22.217Z"
+    },
+    {
+      "id": "_fd9qvs77f",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.94,
+        "reason": "An abundant watering supply (rainfall >180mm) and high ambient humidity are highly optimal for submerged puddle cultivation of tropical Rice structures.",
+        "soil_data": {
+          "N": 90,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:23:24.210Z"
+    },
+    {
+      "id": "_0sq6v9pdq",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.94,
+        "reason": "An abundant watering supply (rainfall >180mm) and high ambient humidity are highly optimal for submerged puddle cultivation of tropical Rice structures.",
+        "soil_data": {
+          "N": 90,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:26:51.577Z"
+    },
+    {
+      "id": "_ysrwnq0t6",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.94,
+        "reason": "An abundant watering supply (rainfall >180mm) and high ambient humidity are highly optimal for submerged puddle cultivation of tropical Rice structures.",
+        "soil_data": {
+          "N": 90,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:32:50.504Z"
+    },
+    {
+      "id": "_ph8291gbc",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.94,
+        "reason": "An abundant watering supply (rainfall >180mm) and high ambient humidity are highly optimal for submerged puddle cultivation of tropical Rice structures.",
+        "soil_data": {
+          "N": 90,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:41:49.049Z"
+    },
+    {
+      "id": "_mjl98s2t4",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.94,
+        "reason": "An abundant watering supply (rainfall >180mm) and high ambient humidity are highly optimal for submerged puddle cultivation of tropical Rice structures.",
+        "soil_data": {
+          "N": 90,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:42:00.448Z"
+    },
+    {
+      "id": "_xnm8i1iid",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Maize (Makai)",
+        "N": 80,
+        "P": 40,
+        "K": 60,
+        "season": "kharif",
+        "fertilizer": "DAP (Diammonium Phosphate)",
+        "quantity": "50 kg/acre",
+        "instructions": "Incorporate during initial bed tilling. Avoid direct contact with wet seeds to prevent sprout burn. Mix with dry soil."
+      },
+      "date": "2026-06-12T18:43:39.933Z"
+    },
+    {
+      "id": "_0g9spf7ub",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Maize (Makai)",
+        "N": 80,
+        "P": 40,
+        "K": 60,
+        "season": "rabi",
+        "fertilizer": "DAP (Diammonium Phosphate)",
+        "quantity": "50 kg/acre",
+        "instructions": "Incorporate during initial bed tilling. Avoid direct contact with wet seeds to prevent sprout burn. Mix with dry soil."
+      },
+      "date": "2026-06-12T18:43:48.925Z"
+    },
+    {
+      "id": "_j8hwqic6m",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.97,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 90,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:50:21.410Z"
+    },
+    {
+      "id": "_hrtkhzmyo",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.85,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 87,
+          "P": 32,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:50:54.361Z"
+    },
+    {
+      "id": "_idsjkf82b",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.85,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 87,
+          "P": 32,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:51:05.140Z"
+    },
+    {
+      "id": "_8x7y0msq4",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.85,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 87,
+          "P": 32,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:51:10.407Z"
+    },
+    {
+      "id": "_as13zwqd6",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.83,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 87,
+          "P": 32,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:51:17.391Z"
+    },
+    {
+      "id": "_yrmropena",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Wheat",
+        "N": 80,
+        "P": 40,
+        "K": 60,
+        "season": "kharif",
+        "fertilizer": "NPK 15-15-15 Complex",
+        "quantity": "75 kg/acre",
+        "instructions": "Incorporate deeply into seedrows during sowing. Supplement with minor sulfur sprays if leaves turn pale yellow."
+      },
+      "date": "2026-06-12T18:51:23.743Z"
+    },
+    {
+      "id": "_nbo18k6jr",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Wheat",
+        "N": 80,
+        "P": 40,
+        "K": 60,
+        "season": "rabi",
+        "fertilizer": "NPK 15-15-15 Complex",
+        "quantity": "75 kg/acre",
+        "instructions": "Incorporate deeply into seedrows during sowing. Supplement with minor sulfur sprays if leaves turn pale yellow."
+      },
+      "date": "2026-06-12T18:51:33.622Z"
+    },
+    {
+      "id": "_f311elu4k",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Cotton (Kapas)",
+        "N": 80,
+        "P": 40,
+        "K": 60,
+        "season": "rabi",
+        "fertilizer": "MOP (Muriate of Potash) & Urea",
+        "quantity": "50 kg Potash + 70 kg Urea per Acre",
+        "instructions": "Apply MOP completely during land staging. Distribute Urea into three custom side-dressings during flowering stages."
+      },
+      "date": "2026-06-12T18:51:39.539Z"
+    },
+    {
+      "id": "_9inuznd37",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Cotton (Kapas)",
+        "N": 80,
+        "P": 40,
+        "K": 60,
+        "season": "zaid",
+        "fertilizer": "MOP (Muriate of Potash) & Urea",
+        "quantity": "50 kg Potash + 70 kg Urea per Acre",
+        "instructions": "Apply MOP completely during land staging. Distribute Urea into three custom side-dressings during flowering stages."
+      },
+      "date": "2026-06-12T18:51:43.164Z"
+    },
+    {
+      "id": "_q2zcg7ds9",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Maize (Makai)",
+        "N": 80,
+        "P": 40,
+        "K": 60,
+        "season": "zaid",
+        "fertilizer": "DAP (Diammonium Phosphate)",
+        "quantity": "50 kg/acre",
+        "instructions": "Incorporate during initial bed tilling. Avoid direct contact with wet seeds to prevent sprout burn. Mix with dry soil."
+      },
+      "date": "2026-06-12T18:51:50.524Z"
+    },
+    {
+      "id": "_vbl2921ju",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.97,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 90,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:51:59.777Z"
+    },
+    {
+      "id": "_qxfz60erd",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Wheat",
+        "N": 80,
+        "P": 40,
+        "K": 60,
+        "season": "kharif",
+        "fertilizer": "NPK 15-15-15 Complex",
+        "quantity": "75 kg/acre",
+        "instructions": "Incorporate deeply into seedrows during sowing. Supplement with minor sulfur sprays if leaves turn pale yellow."
+      },
+      "date": "2026-06-12T18:53:06.334Z"
+    },
+    {
+      "id": "_dzs8u9zea",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.97,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 90,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:54:43.229Z"
+    },
+    {
+      "id": "_eqo8agcmc",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.75,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 50,
+          "P": 41,
+          "K": 23,
+          "ph": 5.2,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:55:13.021Z"
+    },
+    {
+      "id": "_om731qu2y",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.75,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 50,
+          "P": 41,
+          "K": 23,
+          "ph": 5.2,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:55:19.857Z"
+    },
+    {
+      "id": "_1txdi3lw5",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.85,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 80,
+          "P": 22,
+          "K": 43,
+          "ph": 4.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:55:53.248Z"
+    },
+    {
+      "id": "_ubxxkemz6",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Potato (Aloo)",
+        "N": 80,
+        "P": 40,
+        "K": 60,
+        "season": "kharif",
+        "fertilizer": "DAP (Diammonium Phosphate)",
+        "quantity": "50 kg/acre",
+        "instructions": "Incorporate during initial bed tilling. Avoid direct contact with wet seeds to prevent sprout burn. Mix with dry soil."
+      },
+      "date": "2026-06-12T18:56:04.933Z"
+    },
+    {
+      "id": "_bz6xz2fat",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Potato (Aloo)",
+        "N": 60,
+        "P": 40,
+        "K": 60,
+        "season": "kharif",
+        "fertilizer": "DAP (Diammonium Phosphate)",
+        "quantity": "50 kg/acre",
+        "instructions": "Incorporate during initial bed tilling. Avoid direct contact with wet seeds to prevent sprout burn. Mix with dry soil."
+      },
+      "date": "2026-06-12T18:56:17.485Z"
+    },
+    {
+      "id": "_6lmuw4ml8",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.97,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 90,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:56:36.788Z"
+    },
+    {
+      "id": "_tchjm0pxy",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.93,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 60,
+          "P": 32,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:57:14.514Z"
+    },
+    {
+      "id": "_fd8h114at",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.93,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 60,
+          "P": 32,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:57:20.331Z"
+    },
+    {
+      "id": "_f9hj7nc54",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.97,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 90,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T18:58:54.549Z"
+    },
+    {
+      "id": "_w0dlflv03",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.97,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 90,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T19:00:48.312Z"
+    },
+    {
+      "id": "_0102jlnp1",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.92,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 60,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T19:00:59.798Z"
+    },
+    {
+      "id": "_vkuwhc3yw",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.92,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 60,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T19:01:02.349Z"
+    },
+    {
+      "id": "_ye7u7cw66",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Potato (Aloo)",
+        "N": 80,
+        "P": 40,
+        "K": 60,
+        "season": "kharif",
+        "fertilizer": "DAP (Diammonium Phosphate)",
+        "quantity": "50 kg/acre",
+        "instructions": "Incorporate during initial bed tilling. Avoid direct contact with wet seeds to prevent sprout burn. Mix with dry soil."
+      },
+      "date": "2026-06-12T19:01:11.069Z"
+    },
+    {
+      "id": "_sxy5xw8hl",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Wheat",
+        "N": 80,
+        "P": 40,
+        "K": 60,
+        "season": "zaid",
+        "fertilizer": "NPK 15-15-15 Complex",
+        "quantity": "75 kg/acre",
+        "instructions": "Incorporate deeply into seedrows during sowing. Supplement with minor sulfur sprays if leaves turn pale yellow."
+      },
+      "date": "2026-06-12T19:01:21.408Z"
+    },
+    {
+      "id": "_7hq7vn1pi",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Wheat",
+        "N": 80,
+        "P": 40,
+        "K": 60,
+        "season": "zaid",
+        "fertilizer": "NPK 15-15-15 Complex",
+        "quantity": "75 kg/acre",
+        "instructions": "Incorporate deeply into seedrows during sowing. Supplement with minor sulfur sprays if leaves turn pale yellow."
+      },
+      "date": "2026-06-12T19:01:27.810Z"
+    },
+    {
+      "id": "_zuzyabm1z",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.99,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 90,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T19:08:27.131Z"
+    },
+    {
+      "id": "_e2i9ru9c1",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Wheat (Gandum)",
+        "confidence": 0.96,
+        "reason": "Cooler winter climates (temp <22°C) combined with moderate, even watering profiles promote excellent tillering and grain-fill in wheat fields.",
+        "soil_data": {
+          "N": 80,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T19:08:40.863Z"
+    },
+    {
+      "id": "_hird14sls",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.81,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 60,
+          "P": 32,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T19:09:01.112Z"
+    },
+    {
+      "id": "_6x6s3gg7c",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.86,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 70,
+          "P": 32,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T19:09:17.364Z"
+    },
+    {
+      "id": "_idclbc8wa",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Lentils (Masoor)",
+        "confidence": 0.75,
+        "reason": "Arid, medium-alkaline conditions with moderate organic nitrogen are optimal since legumes fix their own plant-accessible nitrogen.",
+        "soil_data": {
+          "N": 40,
+          "P": 32,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T19:09:29.481Z"
+    },
+    {
+      "id": "_cbj0yqum2",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Wheat",
+        "N": 80,
+        "P": 40,
+        "K": 60,
+        "season": "kharif",
+        "fertilizer": "NPK 15-15-15 Complex",
+        "quantity": "75 kg/acre",
+        "instructions": "Incorporate deeply into seedrows during sowing. Supplement with minor sulfur sprays if leaves turn pale yellow."
+      },
+      "date": "2026-06-12T19:09:40.071Z"
+    },
+    {
+      "id": "_kn5dptslz",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Wheat",
+        "N": 80,
+        "P": 40,
+        "K": 60,
+        "season": "rabi",
+        "fertilizer": "NPK 15-15-15 Complex",
+        "quantity": "75 kg/acre",
+        "instructions": "Incorporate deeply into seedrows during sowing. Supplement with minor sulfur sprays if leaves turn pale yellow."
+      },
+      "date": "2026-06-12T19:09:46.949Z"
+    },
+    {
+      "id": "_7didoxrzg",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Wheat",
+        "N": 80,
+        "P": 40,
+        "K": 60,
+        "season": "zaid",
+        "fertilizer": "NPK 15-15-15 Complex",
+        "quantity": "75 kg/acre",
+        "instructions": "Incorporate deeply into seedrows during sowing. Supplement with minor sulfur sprays if leaves turn pale yellow."
+      },
+      "date": "2026-06-12T19:09:55.038Z"
+    },
+    {
+      "id": "_jaa0hec8d",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Wheat",
+        "N": 70,
+        "P": 50,
+        "K": 60,
+        "season": "zaid",
+        "fertilizer": "NPK 15-15-15 Complex",
+        "quantity": "75 kg/acre",
+        "instructions": "Incorporate deeply into seedrows during sowing. Supplement with minor sulfur sprays if leaves turn pale yellow."
+      },
+      "date": "2026-06-12T19:10:05.434Z"
+    },
+    {
+      "id": "_cu3r911lb",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Wheat",
+        "N": 70,
+        "P": 50,
+        "K": 60,
+        "season": "zaid",
+        "fertilizer": "NPK 15-15-15 Complex",
+        "quantity": "75 kg/acre",
+        "instructions": "Incorporate deeply into seedrows during sowing. Supplement with minor sulfur sprays if leaves turn pale yellow."
+      },
+      "date": "2026-06-12T19:10:09.812Z"
+    },
+    {
+      "id": "_gddkmzyrl",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Wheat (Gandum)",
+        "confidence": 0.74,
+        "reason": "Cooler winter climates (temp <22°C) combined with moderate, even watering profiles promote excellent tillering and grain-fill in wheat fields.",
+        "soil_data": {
+          "N": 80,
+          "P": 22,
+          "K": 13,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T19:11:56.016Z"
+    },
+    {
+      "id": "_nriu7y8qp",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Lentils (Masoor)",
+        "confidence": 0.52,
+        "reason": "Arid, medium-alkaline conditions with moderate organic nitrogen are optimal since legumes fix their own plant-accessible nitrogen.",
+        "soil_data": {
+          "N": 10,
+          "P": 22,
+          "K": 13,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T19:12:12.863Z"
+    },
+    {
+      "id": "_tdat2g44n",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Lentils (Masoor)",
+        "confidence": 0.63,
+        "reason": "Arid, medium-alkaline conditions with moderate organic nitrogen are optimal since legumes fix their own plant-accessible nitrogen.",
+        "soil_data": {
+          "N": 10,
+          "P": 42,
+          "K": 13,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T19:12:22.578Z"
+    },
+    {
+      "id": "_pdasz1cvq",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Lentils (Masoor)",
+        "confidence": 0.63,
+        "reason": "Arid, medium-alkaline conditions with moderate organic nitrogen are optimal since legumes fix their own plant-accessible nitrogen.",
+        "soil_data": {
+          "N": 10,
+          "P": 42,
+          "K": 13,
+          "ph": 6.5,
+          "rainfall": 240.43
+        }
+      },
+      "date": "2026-06-12T19:12:38.156Z"
+    },
+    {
+      "id": "_qei7ioeiz",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Lentils (Masoor)",
+        "confidence": 0.67,
+        "reason": "Arid, medium-alkaline conditions with moderate organic nitrogen are optimal since legumes fix their own plant-accessible nitrogen.",
+        "soil_data": {
+          "N": 10,
+          "P": 42,
+          "K": 53,
+          "ph": 8.5,
+          "rainfall": 240.43
+        }
+      },
+      "date": "2026-06-12T19:12:56.511Z"
+    },
+    {
+      "id": "_61km1kssd",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Lentils (Masoor)",
+        "confidence": 0.72,
+        "reason": "Arid, medium-alkaline conditions with moderate organic nitrogen are optimal since legumes fix their own plant-accessible nitrogen.",
+        "soil_data": {
+          "N": 40,
+          "P": 42,
+          "K": 53,
+          "ph": 8.5,
+          "rainfall": 240.43
+        }
+      },
+      "date": "2026-06-12T19:13:16.680Z"
+    },
+    {
+      "id": "_82477vdqn",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Lentils (Masoor)",
+        "confidence": 0.56,
+        "reason": "Arid, medium-alkaline conditions with moderate organic nitrogen are optimal since legumes fix their own plant-accessible nitrogen.",
+        "soil_data": {
+          "N": 30,
+          "P": 62,
+          "K": 93,
+          "ph": 8.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T19:15:21.559Z"
+    },
+    {
+      "id": "_wyjxrcdr2",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Wheat",
+        "N": 80,
+        "P": 40,
+        "K": 60,
+        "season": "kharif",
+        "fertilizer": "DAP + Urea Balanced Mix",
+        "quantity": "43 kg DAP + 69 kg Urea",
+        "instructions": "This custom formulation resolves macronutrient deficiencies detected in your soil (Deficiencies: N=-40, P=-20, K=-0 mg/kg) relative to the requirements of Wheat.\n\nApplication Steps:\n1. Incorporate 43 kg DAP per acre during early tilling. Placed deep in the seedbeds, this allows phosphorus to be easily reached by developing roots.\n2. Apply 69 kg Urea per acre in split doses: broadcast 35 kg during initial watering/tilling, and top-dress the remaining 35 kg during active vegetative growth or tillering.\n3. Seasonal Guidance: During the wet Kharif season, avoid broadcasting Urea just before heavy rain forecasts to minimize nitrogen leaching into runoff streams."
+      },
+      "date": "2026-06-12T19:15:40.924Z"
+    },
+    {
+      "id": "_xrz0477cp",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Wheat",
+        "N": 30,
+        "P": 40,
+        "K": 60,
+        "season": "kharif",
+        "fertilizer": "DAP + Urea Balanced Mix",
+        "quantity": "43 kg DAP + 178 kg Urea",
+        "instructions": "This custom formulation resolves macronutrient deficiencies detected in your soil (Deficiencies: N=-90, P=-20, K=-0 mg/kg) relative to the requirements of Wheat.\n\nApplication Steps:\n1. Incorporate 43 kg DAP per acre during early tilling. Placed deep in the seedbeds, this allows phosphorus to be easily reached by developing roots.\n2. Apply 178 kg Urea per acre in split doses: broadcast 89 kg during initial watering/tilling, and top-dress the remaining 89 kg during active vegetative growth or tillering.\n3. Seasonal Guidance: During the wet Kharif season, avoid broadcasting Urea just before heavy rain forecasts to minimize nitrogen leaching into runoff streams."
+      },
+      "date": "2026-06-12T19:15:56.340Z"
+    },
+    {
+      "id": "_83g08o3wt",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Wheat",
+        "N": 30,
+        "P": 40,
+        "K": 60,
+        "season": "rabi",
+        "fertilizer": "DAP + Urea Balanced Mix",
+        "quantity": "43 kg DAP + 178 kg Urea",
+        "instructions": "This custom formulation resolves macronutrient deficiencies detected in your soil (Deficiencies: N=-90, P=-20, K=-0 mg/kg) relative to the requirements of Wheat.\n\nApplication Steps:\n1. Incorporate 43 kg DAP per acre during early tilling. Placed deep in the seedbeds, this allows phosphorus to be easily reached by developing roots.\n2. Apply 178 kg Urea per acre in split doses: broadcast 89 kg during initial watering/tilling, and top-dress the remaining 89 kg during active vegetative growth or tillering.\n3. Seasonal Guidance: During the cooler Rabi season, ensure soil is damp when applying top-dressings to allow proper dissolution of granular fertilizer."
+      },
+      "date": "2026-06-12T19:16:03.608Z"
+    },
+    {
+      "id": "_vne24070k",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Wheat",
+        "N": 30,
+        "P": 40,
+        "K": 60,
+        "season": "zaid",
+        "fertilizer": "DAP + Urea Balanced Mix",
+        "quantity": "43 kg DAP + 178 kg Urea",
+        "instructions": "This custom formulation resolves macronutrient deficiencies detected in your soil (Deficiencies: N=-90, P=-20, K=-0 mg/kg) relative to the requirements of Wheat.\n\nApplication Steps:\n1. Incorporate 43 kg DAP per acre during early tilling. Placed deep in the seedbeds, this allows phosphorus to be easily reached by developing roots.\n2. Apply 178 kg Urea per acre in split doses: broadcast 89 kg during initial watering/tilling, and top-dress the remaining 89 kg during active vegetative growth or tillering.\n3. Seasonal Guidance: For the spring Zaid crop, prioritize early morning applications to prevent high-temperature ammonia volatilization."
+      },
+      "date": "2026-06-12T19:16:10.910Z"
+    },
+    {
+      "id": "_7f7dd5ise",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Grapes (Angoor)",
+        "N": 30,
+        "P": 40,
+        "K": 60,
+        "season": "zaid",
+        "fertilizer": "Urea + MOP Balanced Mix",
+        "quantity": "65 kg Urea + 100 kg MOP",
+        "instructions": "This custom formulation resolves macronutrient deficiencies detected in your soil (Deficiencies: N=-30, P=-0, K=-60 mg/kg) relative to the requirements of Grapes (Angoor).\n\nApplication Steps:\n1. Apply 65 kg Urea per acre in split doses: broadcast 33 kg during initial watering/tilling, and top-dress the remaining 33 kg during active vegetative growth or tillering.\n2. Apply 100 kg MOP (Muriate of Potash) during field preparation to strengthen crop stems and enhance overall drought and pest resistance.\n3. Seasonal Guidance: For the spring Zaid crop, prioritize early morning applications to prevent high-temperature ammonia volatilization."
+      },
+      "date": "2026-06-12T19:16:20.642Z"
+    },
+    {
+      "id": "_1ocg09suu",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Wheat",
+        "N": 70,
+        "P": 60,
+        "K": 60,
+        "season": "kharif",
+        "fertilizer": "Urea Balanced Mix",
+        "quantity": "109 kg Urea",
+        "instructions": "This custom formulation resolves macronutrient deficiencies detected in your soil (Deficiencies: N=-50, P=-0, K=-0 mg/kg) relative to the requirements of Wheat.\n\nApplication Steps:\n1. Apply 109 kg Urea per acre in split doses: broadcast 55 kg during initial watering/tilling, and top-dress the remaining 55 kg during active vegetative growth or tillering.\n3. Seasonal Guidance: During the wet Kharif season, avoid broadcasting Urea just before heavy rain forecasts to minimize nitrogen leaching into runoff streams."
+      },
+      "date": "2026-06-12T19:18:02.140Z"
+    },
+    {
+      "id": "_eu15ou2nt",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Wheat",
+        "N": 80,
+        "P": 40,
+        "K": 60,
+        "season": "kharif",
+        "fertilizer": "DAP + Urea Balanced Mix",
+        "quantity": "43 kg DAP + 69 kg Urea",
+        "instructions": "This custom formulation resolves macronutrient deficiencies detected in your soil (Deficiencies: N=-40, P=-20, K=-0 mg/kg) relative to the requirements of Wheat.\n\nApplication Steps:\n1. Incorporate 43 kg DAP per acre during early tilling. Placed deep in the seedbeds, this allows phosphorus to be easily reached by developing roots.\n2. Apply 69 kg Urea per acre in split doses: broadcast 35 kg during initial watering/tilling, and top-dress the remaining 35 kg during active vegetative growth or tillering.\n3. Seasonal Guidance: During the wet Kharif season, avoid broadcasting Urea just before heavy rain forecasts to minimize nitrogen leaching into runoff streams."
+      },
+      "date": "2026-06-12T19:18:08.306Z"
+    },
+    {
+      "id": "_joot7ur54",
+      "userId": "_qb2573iwj",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.86,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 95,
+          "P": 55,
+          "K": 45,
+          "ph": 6.3,
+          "rainfall": 180
+        }
+      },
+      "date": "2026-06-12T19:43:08.995Z"
+    },
+    {
+      "id": "_75zcrfg0u",
+      "userId": "_qb2573iwj",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Rice",
+        "N": 60,
+        "P": 30,
+        "K": 20,
+        "season": "Kharif",
+        "fertilizer": "DAP + Urea + MOP Balanced Mix",
+        "quantity": "43 kg DAP + 69 kg Urea + 33 kg MOP",
+        "instructions": "This custom formulation resolves macronutrient deficiencies detected in your soil (Deficiencies: N=-40, P=-20, K=-20 mg/kg) relative to the requirements of Rice.\n\nApplication Steps:\n1. Incorporate 43 kg DAP per acre during early tilling. Placed deep in the seedbeds, this allows phosphorus to be easily reached by developing roots.\n2. Apply 69 kg Urea per acre in split doses: broadcast 35 kg during initial watering/tilling, and top-dress the remaining 35 kg during active vegetative growth or tillering.\n2. Apply 33 kg MOP (Muriate of Potash) during field preparation to strengthen crop stems and enhance overall drought and pest resistance.\n3. Seasonal Guidance: During the wet Kharif season, avoid broadcasting Urea just before heavy rain forecasts to minimize nitrogen leaching into runoff streams."
+      },
+      "date": "2026-06-12T19:43:12.522Z"
+    },
+    {
+      "id": "_dwo0kat8e",
+      "userId": "_vuqf1eah0",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.86,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 95,
+          "P": 55,
+          "K": 45,
+          "ph": 6.3,
+          "rainfall": 180
+        }
+      },
+      "date": "2026-06-12T19:44:18.667Z"
+    },
+    {
+      "id": "_kh3gfwg7e",
+      "userId": "_vuqf1eah0",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Rice",
+        "N": 60,
+        "P": 30,
+        "K": 20,
+        "season": "Kharif",
+        "fertilizer": "DAP + Urea + MOP Balanced Mix",
+        "quantity": "43 kg DAP + 69 kg Urea + 33 kg MOP",
+        "instructions": "This custom formulation resolves macronutrient deficiencies detected in your soil (Deficiencies: N=-40, P=-20, K=-20 mg/kg) relative to the requirements of Rice.\n\nApplication Steps:\n1. Incorporate 43 kg DAP per acre during early tilling. Placed deep in the seedbeds, this allows phosphorus to be easily reached by developing roots.\n2. Apply 69 kg Urea per acre in split doses: broadcast 35 kg during initial watering/tilling, and top-dress the remaining 35 kg during active vegetative growth or tillering.\n2. Apply 33 kg MOP (Muriate of Potash) during field preparation to strengthen crop stems and enhance overall drought and pest resistance.\n3. Seasonal Guidance: During the wet Kharif season, avoid broadcasting Urea just before heavy rain forecasts to minimize nitrogen leaching into runoff streams."
+      },
+      "date": "2026-06-12T19:44:22.181Z"
+    },
+    {
+      "id": "_nwipovoea",
+      "userId": "_6zhurv962",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.86,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 95,
+          "P": 55,
+          "K": 45,
+          "ph": 6.3,
+          "rainfall": 180
+        }
+      },
+      "date": "2026-06-12T19:45:08.552Z"
+    },
+    {
+      "id": "_8578eksnc",
+      "userId": "_6zhurv962",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Rice",
+        "N": 60,
+        "P": 30,
+        "K": 20,
+        "season": "Kharif",
+        "fertilizer": "DAP + Urea + MOP Balanced Mix",
+        "quantity": "43 kg DAP + 69 kg Urea + 33 kg MOP",
+        "instructions": "This custom formulation resolves macronutrient deficiencies detected in your soil (Deficiencies: N=-40, P=-20, K=-20 mg/kg) relative to the requirements of Rice.\n\nApplication Steps:\n1. Incorporate 43 kg DAP per acre during early tilling. Placed deep in the seedbeds, this allows phosphorus to be easily reached by developing roots.\n2. Apply 69 kg Urea per acre in split doses: broadcast 35 kg during initial watering/tilling, and top-dress the remaining 35 kg during active vegetative growth or tillering.\n2. Apply 33 kg MOP (Muriate of Potash) during field preparation to strengthen crop stems and enhance overall drought and pest resistance.\n3. Seasonal Guidance: During the wet Kharif season, avoid broadcasting Urea just before heavy rain forecasts to minimize nitrogen leaching into runoff streams."
+      },
+      "date": "2026-06-12T19:45:12.078Z"
+    },
+    {
+      "id": "_hhw4qb9op",
+      "userId": "_rctvlnkze",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.86,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 95,
+          "P": 55,
+          "K": 45,
+          "ph": 6.3,
+          "rainfall": 180
+        }
+      },
+      "date": "2026-06-12T19:46:05.767Z"
+    },
+    {
+      "id": "_mt4sdme65",
+      "userId": "_rctvlnkze",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Rice",
+        "N": 60,
+        "P": 30,
+        "K": 20,
+        "season": "Kharif",
+        "fertilizer": "DAP + Urea + MOP Balanced Mix",
+        "quantity": "43 kg DAP + 69 kg Urea + 33 kg MOP",
+        "instructions": "This custom formulation resolves macronutrient deficiencies detected in your soil (Deficiencies: N=-40, P=-20, K=-20 mg/kg) relative to the requirements of Rice.\n\nApplication Steps:\n1. Incorporate 43 kg DAP per acre during early tilling. Placed deep in the seedbeds, this allows phosphorus to be easily reached by developing roots.\n2. Apply 69 kg Urea per acre in split doses: broadcast 35 kg during initial watering/tilling, and top-dress the remaining 35 kg during active vegetative growth or tillering.\n2. Apply 33 kg MOP (Muriate of Potash) during field preparation to strengthen crop stems and enhance overall drought and pest resistance.\n3. Seasonal Guidance: During the wet Kharif season, avoid broadcasting Urea just before heavy rain forecasts to minimize nitrogen leaching into runoff streams."
+      },
+      "date": "2026-06-12T19:46:09.847Z"
+    },
+    {
+      "id": "_eabgz1zfw",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Lentils (Masoor)",
+        "confidence": 0.68,
+        "reason": "Arid, medium-alkaline conditions with moderate organic nitrogen are optimal since legumes fix their own plant-accessible nitrogen.",
+        "soil_data": {
+          "N": 50,
+          "P": 42,
+          "K": 43,
+          "ph": 9.5,
+          "rainfall": 243.21
+        }
+      },
+      "date": "2026-06-12T19:49:39.479Z"
+    },
+    {
+      "id": "_49b15p9is",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Wheat",
+        "N": 80,
+        "P": 40,
+        "K": 60,
+        "season": "kharif",
+        "fertilizer": "DAP + Urea Balanced Mix",
+        "quantity": "43 kg DAP + 69 kg Urea",
+        "instructions": "This custom formulation resolves macronutrient deficiencies detected in your soil (Deficiencies: N=-40, P=-20, K=-0 mg/kg) relative to the requirements of Wheat.\n\nApplication Steps:\n1. Incorporate 43 kg DAP per acre during early tilling. Placed deep in the seedbeds, this allows phosphorus to be easily reached by developing roots.\n2. Apply 69 kg Urea per acre in split doses: broadcast 35 kg during initial watering/tilling, and top-dress the remaining 35 kg during active vegetative growth or tillering.\n3. Seasonal Guidance: During the wet Kharif season, avoid broadcasting Urea just before heavy rain forecasts to minimize nitrogen leaching into runoff streams."
+      },
+      "date": "2026-06-12T19:49:53.794Z"
+    },
+    {
+      "id": "_bue7j47o6",
+      "userId": "_1rsp40bgj",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (چاول)",
+        "confidence": 0.98,
+        "reason": "The soil metrics indicate a fertile environment with a near-neutral pH (6.3), which is highly favorable for nutrient availability and a wide range of crops. Nitrogen (95 mg/kg), Phosphorus (55 mg/kg), and Potassium (45 mg/kg) are all at moderate to good levels, providing a solid foundation for plant growth. The climatic conditions are characterized by a warm temperature (26°C), high humidity (78%), and significant rainfall (180mm). These specific conditions are highly indicative of a tropical or subtropical environment during a wet season. Considering these factors, Rice (Chawal - چاول) emerges as the most optimal crop. Rice is a semi-aquatic plant that thrives in warm temperatures (typically 20-35°C), high humidity, and requires abundant water, often grown in flooded paddy fields. The 180mm rainfall is perfectly suited to meet its high water demands, and the 78% humidity helps maintain the necessary atmospheric moisture. The soil pH of 6.3 is within the ideal range for rice cultivation (typically 5.5-7.0), ensuring efficient nutrient uptake. While rice is a heavy feeder, the existing NPK levels provide a good starting point, and supplementary fertilization can further optimize yields. Other crops like sugarcane or maize could also grow, but rice's specific adaptation to high water availability and humidity makes it exceptionally well-suited to these combined metrics.",
+        "soil_data": {
+          "N": 95,
+          "P": 55,
+          "K": 45,
+          "ph": 6.3,
+          "rainfall": 180
+        }
+      },
+      "date": "2026-06-12T19:54:00.463Z"
+    },
+    {
+      "id": "_7wa4quimr",
+      "userId": "_1rsp40bgj",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Rice",
+        "N": 60,
+        "P": 30,
+        "K": 20,
+        "season": "Kharif",
+        "fertilizer": "DAP + Urea + MOP Balanced Mix",
+        "quantity": "43 kg DAP + 69 kg Urea + 33 kg MOP",
+        "instructions": "This custom formulation resolves macronutrient deficiencies detected in your soil (Deficiencies: N=-40, P=-20, K=-20 mg/kg) relative to the requirements of Rice.\n\nApplication Steps:\n1. Incorporate 43 kg DAP per acre during early tilling. Placed deep in the seedbeds, this allows phosphorus to be easily reached by developing roots.\n2. Apply 69 kg Urea per acre in split doses: broadcast 35 kg during initial watering/tilling, and top-dress the remaining 35 kg during active vegetative growth or tillering.\n2. Apply 33 kg MOP (Muriate of Potash) during field preparation to strengthen crop stems and enhance overall drought and pest resistance.\n3. Seasonal Guidance: During the wet Kharif season, avoid broadcasting Urea just before heavy rain forecasts to minimize nitrogen leaching into runoff streams."
+      },
+      "date": "2026-06-12T19:54:05.366Z"
+    },
+    {
+      "id": "_bm7whwobk",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Rice (Chawal)",
+        "confidence": 0.99,
+        "reason": "High moisture, high humidity, and heavy rainfall (>180mm) are highly optimal for submerged puddle cultivation of tropical Rice.",
+        "soil_data": {
+          "N": 90,
+          "P": 42,
+          "K": 43,
+          "ph": 6.5,
+          "rainfall": 202.93
+        }
+      },
+      "date": "2026-06-12T19:57:41.970Z"
+    },
+    {
+      "id": "_hu0h725ly",
+      "userId": "_i8liinv67",
+      "type": "crop",
+      "result": {
+        "crop": "Lentils (Masoor)",
+        "confidence": 0.77,
+        "reason": "Arid, medium-alkaline conditions with moderate organic nitrogen are optimal since legumes fix their own plant-accessible nitrogen.",
+        "soil_data": {
+          "N": 60,
+          "P": 42,
+          "K": 43,
+          "ph": 7.5,
+          "rainfall": 256.77
+        }
+      },
+      "date": "2026-06-12T19:58:02.623Z"
+    },
+    {
+      "id": "_pplwawd1o",
+      "userId": "_i8liinv67",
+      "type": "fertilizer",
+      "result": {
+        "crop": "Lentils (Masoor)",
+        "N": 80,
+        "P": 40,
+        "K": 60,
+        "season": "kharif",
+        "fertilizer": "DAP Balanced Mix",
+        "quantity": "22 kg DAP",
+        "instructions": "This custom formulation resolves macronutrient deficiencies detected in your soil (Deficiencies: N=-0, P=-10, K=-0 mg/kg) relative to the requirements of Lentils (Masoor).\n\nApplication Steps:\n1. Incorporate 22 kg DAP per acre during early tilling. Placed deep in the seedbeds, this allows phosphorus to be easily reached by developing roots.\n3. Seasonal Guidance: During the wet Kharif season, avoid broadcasting Urea just before heavy rain forecasts to minimize nitrogen leaching into runoff streams."
+      },
+      "date": "2026-06-12T19:58:15.238Z"
+    }
+  ]
+}

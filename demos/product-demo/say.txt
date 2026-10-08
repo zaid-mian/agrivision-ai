@@ -1,0 +1,14 @@
+Every year, crop diseases destroy up to forty percent of agricultural yields before farmers can consult a specialist.
+AgriVision AI bridges this critical gap. It is an enterprise-grade precision agriculture platform powered by real-time edge deep learning and an explainable agronomy engine.
+Entering the platform as a verified model farmer, the central command center instantly loads.
+Farm managers and agronomists can track active field health index scores, monitor recent diagnostic scans, and review crop risk indicators in real time.
+Let's see the core diagnosis workflow in action. We upload a symptomatic field leaf specimen and trigger an AI diagnostic scan.
+Instead of relying on a slow remote cloud server, our custom MobileNetV3 deep learning model executes locally on the CPU in under fifty milliseconds.
+It accurately detects Tomato Late Blight with eighty-eight percent confidence, providing a full breakdown of the top three probabilistic classifications.
+Unlike traditional black-box AI, AgriVision provides explainable diagnostics.
+By toggling the neural attention heatmap, farmers can visually verify the exact necrotic lesion regions that guided the model's prediction.
+The platform immediately pairs this with actionable chemical and organic treatment regimens.
+When growers have specific questions in the field, AgriVision provides a bilingual semantic RAG assistant.
+Backed by a high-speed BM25 knowledge engine indexing official agronomy handbooks, it retrieves certified spraying schedules, fungicide dosages, and preventive guidance in just three milliseconds.
+Every diagnostic scan automatically syncs into official field reports, ready to download as a verified certification report for agricultural extension services and crop insurance.
+AgriVision AI puts instant, reliable agronomy expertise right into farmers' hands.

@@ -1,0 +1,297 @@
+{
+  "n_test": 1418,
+  "accuracy": 0.9513,
+  "macro_f1": 0.9459,
+  "per_class": {
+    "Corn___Cercospora_leaf_spot": {
+      "precision": 0.766,
+      "recall": 0.9474,
+      "f1": 0.8471,
+      "support": 76
+    },
+    "Corn___Common_rust": {
+      "precision": 1.0,
+      "recall": 0.975,
+      "f1": 0.9873,
+      "support": 120
+    },
+    "Corn___Northern_Leaf_Blight": {
+      "precision": 0.9519,
+      "recall": 0.825,
+      "f1": 0.8839,
+      "support": 120
+    },
+    "Corn___healthy": {
+      "precision": 0.9917,
+      "recall": 1.0,
+      "f1": 0.9959,
+      "support": 120
+    },
+    "Pepper_bell___Bacterial_spot": {
+      "precision": 0.975,
+      "recall": 0.975,
+      "f1": 0.975,
+      "support": 120
+    },
+    "Pepper_bell___healthy": {
+      "precision": 0.9597,
+      "recall": 0.9917,
+      "f1": 0.9754,
+      "support": 120
+    },
+    "Potato___Early_blight": {
+      "precision": 0.96,
+      "recall": 1.0,
+      "f1": 0.9796,
+      "support": 120
+    },
+    "Potato___Late_blight": {
+      "precision": 0.9737,
+      "recall": 0.925,
+      "f1": 0.9487,
+      "support": 120
+    },
+    "Potato___healthy": {
+      "precision": 0.9091,
+      "recall": 0.9091,
+      "f1": 0.9091,
+      "support": 22
+    },
+    "Tomato___Bacterial_spot": {
+      "precision": 0.9667,
+      "recall": 0.9667,
+      "f1": 0.9667,
+      "support": 120
+    },
+    "Tomato___Early_blight": {
+      "precision": 0.9224,
+      "recall": 0.8917,
+      "f1": 0.9068,
+      "support": 120
+    },
+    "Tomato___Late_blight": {
+      "precision": 0.9412,
+      "recall": 0.9333,
+      "f1": 0.9372,
+      "support": 120
+    },
+    "Tomato___healthy": {
+      "precision": 0.9754,
+      "recall": 0.9917,
+      "f1": 0.9835,
+      "support": 120
+    }
+  },
+  "confusion_matrix": [
+    [
+      72,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      117,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      21,
+      0,
+      99,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      120,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      117,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      119,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      120,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      111,
+      2,
+      0,
+      2,
+      2,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      20,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      116,
+      1,
+      2,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      4,
+      107,
+      3,
+      2
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      5,
+      112,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      119
+    ]
+  ],
+  "classes": [
+    "Corn___Cercospora_leaf_spot",
+    "Corn___Common_rust",
+    "Corn___Northern_Leaf_Blight",
+    "Corn___healthy",
+    "Pepper_bell___Bacterial_spot",
+    "Pepper_bell___healthy",
+    "Potato___Early_blight",
+    "Potato___Late_blight",
+    "Potato___healthy",
+    "Tomato___Bacterial_spot",
+    "Tomato___Early_blight",
+    "Tomato___Late_blight",
+    "Tomato___healthy"
+  ]
+}

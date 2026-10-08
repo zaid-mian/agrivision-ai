@@ -1,0 +1,6 @@
+{
+  "name": "AI Agriculture Advisor",
+  "description": "Premium full-stack AI platform offering crop recommendation, plant disease detection, fertilizer planning, farm health estimation, and responsive farming assistant.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

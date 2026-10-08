@@ -1,0 +1,47 @@
+{
+  "$schema": "https://raw.githubusercontent.com/AlexAnsart/demo-studio/main/docs/CONFIG.md",
+  "app": {
+    "baseUrl": "http://localhost:3000",
+    "devCommand": "npm run dev",
+    "viewport": { "width": 1920, "height": 1080 }
+  },
+  "auth": {
+    "loginRequired": false
+  },
+  "cursor": {
+    "scale": 1.5,
+    "color": "#1A3A2B"
+  },
+  "camera": {
+    "padding": 0.22,
+    "maxZoom": 1.6,
+    "transitionSec": 0.75
+  },
+  "speedup": {
+    "idleGapMin": 9999,
+    "toolWaitMax": 4,
+    "preToolWaitMax": 2.5,
+    "tailHold": 3
+  },
+  "frame": {
+    "preset": "macos-dark",
+    "canvasWidth": 1920,
+    "canvasHeight": 1080,
+    "wallpaper": "photo-rice-terraces",
+    "wallpaperDim": 0.35,
+    "radius": 16,
+    "titlebarHeight": 38,
+    "trafficLights": true
+  },
+  "narration": {
+    "provider": "edge-tts",
+    "voiceName": "en-US-ChristopherNeural"
+  },
+  "captions": {
+    "enabled": true,
+    "maxCharsPerLine": 65
+  },
+  "output": {
+    "dir": "demos"
+  }
+}

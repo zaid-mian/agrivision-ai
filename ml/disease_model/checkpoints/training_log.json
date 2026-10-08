@@ -1,0 +1,92 @@
+{
+  "epochs": [
+    {
+      "epoch": 1,
+      "val_loss": 0.303,
+      "val_acc": 0.9068,
+      "seconds": 112.9
+    },
+    {
+      "epoch": 2,
+      "val_loss": 0.2699,
+      "val_acc": 0.913,
+      "seconds": 111.9
+    },
+    {
+      "epoch": 3,
+      "val_loss": 0.4794,
+      "val_acc": 0.8422,
+      "seconds": 99.6
+    },
+    {
+      "epoch": 4,
+      "val_loss": 0.1818,
+      "val_acc": 0.9391,
+      "seconds": 99.7
+    },
+    {
+      "epoch": 5,
+      "val_loss": 0.1868,
+      "val_acc": 0.9354,
+      "seconds": 100.3
+    },
+    {
+      "epoch": 6,
+      "val_loss": 0.179,
+      "val_acc": 0.9466,
+      "seconds": 103.8
+    },
+    {
+      "epoch": 7,
+      "val_loss": 0.1605,
+      "val_acc": 0.9416,
+      "seconds": 102.6
+    },
+    {
+      "epoch": 8,
+      "val_loss": 0.1634,
+      "val_acc": 0.9491,
+      "seconds": 101.1
+    },
+    {
+      "epoch": 9,
+      "val_loss": 0.1676,
+      "val_acc": 0.9491,
+      "seconds": 104.7
+    },
+    {
+      "epoch": 10,
+      "val_loss": 0.134,
+      "val_acc": 0.9578,
+      "seconds": 105.6
+    },
+    {
+      "epoch": 11,
+      "val_loss": 0.1376,
+      "val_acc": 0.954,
+      "seconds": 100.5
+    },
+    {
+      "epoch": 12,
+      "val_loss": 0.1333,
+      "val_acc": 0.9565,
+      "seconds": 104.3
+    }
+  ],
+  "classes": [
+    "Corn___Cercospora_leaf_spot",
+    "Corn___Common_rust",
+    "Corn___Northern_Leaf_Blight",
+    "Corn___healthy",
+    "Pepper_bell___Bacterial_spot",
+    "Pepper_bell___healthy",
+    "Potato___Early_blight",
+    "Potato___Late_blight",
+    "Potato___healthy",
+    "Tomato___Bacterial_spot",
+    "Tomato___Early_blight",
+    "Tomato___Late_blight",
+    "Tomato___healthy"
+  ],
+  "best_val_acc": 0.9578
+}

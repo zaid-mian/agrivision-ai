@@ -1,0 +1,149 @@
+{
+  "common": {
+    "appName": "AI Agriculture Advisor",
+    "logout": "Logout",
+    "language": "Language",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "back": "Back",
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode",
+    "n": "Nitrogen (N)",
+    "p": "Phosphorus (P)",
+    "k": "Potassium (K)",
+    "ph": "Soil pH",
+    "temp": "Temperature",
+    "humidity": "Humidity",
+    "rainfall": "Rainfall",
+    "soil_nutrients": "Soil Nutrients",
+    "dashboard": "Dashboard",
+    "disease": "Disease Scanner",
+    "crop": "Crop Recommendation",
+    "fertilizer": "Fertilizer Planner",
+    "weather": "Weather Insights",
+    "reports": "Farm Reports",
+    "assistant": "AI Assist"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email Address",
+    "password": "Password",
+    "name": "Full Name",
+    "location": "Location / Region",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "loggingIn": "Signing in...",
+    "registering": "Registering...",
+    "passwordStrength": "Password Strength",
+    "weak": "Weak",
+    "medium": "Medium",
+    "strong": "Strong",
+    "validation": {
+      "email": "Please enter a valid email address.",
+      "password": "Password must be at least 6 characters.",
+      "name": "Name must be at least 2 characters.",
+      "location": "Location is required."
+    }
+  },
+  "dashboard": {
+    "welcome": "Welcome back, {{name}}!",
+    "metrics": {
+      "totalScans": "Total Scans",
+      "diseasesFound": "Diseases Found",
+      "lastCrop": "Last Recommended Crop",
+      "currentWeather": "Current Weather"
+    },
+    "historyTitle": "Disease Scan History (Last 7 Days)",
+    "healthGaugeTitle": "Farm Health Score",
+    "healthy": "Optimal",
+    "warning": "At Risk",
+    "critical": "Critical",
+    "quickActions": "Quick Workspaces"
+  },
+  "disease": {
+    "title": "Crop Disease Detection",
+    "description": "Upload a close-up photo of your crop leaf for instantaneous neural network diagnostic screening and treatment instructions.",
+    "dragDrop": "Drag & drop leaf image here, or click to browse",
+    "requirements": "Supports JPEG, JPG, PNG (Max 5MB)",
+    "detectButton": "Analyze Health",
+    "resultTitle": "Diagnostic Result",
+    "confidence": "Diagnostic Confidence",
+    "severity": "Severity Level",
+    "treatment": "Recommended Treatment Instructions",
+    "prevention": "Preventive Cultural Practices",
+    "history": "Diagnostic Logs",
+    "uploadSuccess": "Image upload verified",
+    "scanSaved": "Diagnostic scan logged to security files successfully!"
+  },
+  "crop": {
+    "title": "Crop Recommendation engine",
+    "description": "Input your exact N-P-K soil properties and weather parameters to run our Random Forest classifier for optimal yield recommendations.",
+    "placeholderN": "0-140 (mg/kg)",
+    "placeholderP": "5-145 (mg/kg)",
+    "placeholderK": "5-205 (mg/kg)",
+    "placeholderTemp": "e.g., 25.5 (°C)",
+    "placeholderHumidity": "e.g., 80 (%)",
+    "placeholderRain": "e.g., 150 (mm)",
+    "placeholderPh": "3.5-9.5",
+    "recommendBtn": "Calculate Optimal Crop",
+    "result": "Recommended Cultivation Choice",
+    "reasoning": "Agronomic Support Reason"
+  },
+  "fertilizer": {
+    "title": "Fertilizer Prescription Planner",
+    "description": "Determine customized micro-nutrient fertilizers, precise dosage ratios, and timing guidelines based on targeted crops and seasons.",
+    "cropChoice": "Target Crop Specimen",
+    "season": "Agricultural Cropping Season",
+    "seasonOptions": {
+      "kharif": "Kharif (Monsoon/Summer)",
+      "rabi": "Rabi (Winter)",
+      "zaid": "Zaid (Spring/Dry)"
+    },
+    "recommendBtn": "Plan Nutritional Feed",
+    "result": "Fertilizer Feed Prescription",
+    "quantity": "Prescribed Quantity per Acre",
+    "instructions": "Tactical Sowing & Application Methods"
+  },
+  "weather": {
+    "title": "Smart Farming Weather Insights",
+    "searchPlaceholder": "Search another farming district...",
+    "temp": "Air Temperature",
+    "humidity": "Atmospheric Humidity",
+    "rainProb": "Rain Probability",
+    "condition": "Condition",
+    "advice": "Agronomic Meteorological Advice",
+    "risk": "Fungal Disease Multiplier Risk",
+    "riskLevels": {
+      "low": "Low Risk",
+      "medium": "Elevated Risk",
+      "high": "Critical High Risk"
+    }
+  },
+  "reports": {
+    "title": "Farm Performance Reports",
+    "description": "Obtain historical audit documents compiling the last 30 days of diagnostic screenings, soil assessments, local climate cycles, and farm health gradients.",
+    "generate": "Compile Official PDF Report",
+    "historicalTable": "Recent Diagnosis Records (Last 10 Scans)",
+    "noRecords": "No diagnostics scans recorded in this interval.",
+    "tableHeader": {
+      "date": "Scan Date",
+      "target": "Crop",
+      "disease": "Detected Pathogen",
+      "severity": "Severity Grade",
+      "confidence": "Scale"
+    }
+  },
+  "assistant": {
+    "title": "Local RAG Farming Assistant",
+    "placeholder": "Ask our expert AI (e.g., \"Why are my potato leaves turning yellow?\")",
+    "speechBtn": "Activate Voice Input",
+    "listening": "Listening closely...",
+    "stopListening": "Deactivate Voice",
+    "sources": "Referenced Knowledge Base FAQ Items"
+  }
+}
